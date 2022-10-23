@@ -1,6 +1,6 @@
 #database #datawarehouse #apache #BigData
 # To be completed and translated into English
-Hive è un software di **data warehouse** che i pone lo scopo di facilitare la scrittura, la lettura e la gestione di ampi dataset in un DFS ([Distributed File System](UsefulThings/DistributedFileSystem.md)) tramite l'ausilio di linguaggio SQL.
+Hive è un software di **data warehouse** che i pone lo scopo di facilitare la scrittura, la lettura e la gestione di ampi dataset in un DFS ([[DistributedFileSystem]]) tramite l'ausilio di linguaggio SQL.
 
 Hive è costruito su database Hadoop e fornisce le seguenti features:
 - tools per l'accesso ai dati via SQL con scopi di ETL, reporting o analisi
