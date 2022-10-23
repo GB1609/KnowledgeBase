@@ -1,11 +1,12 @@
 # Notes
-Simple repository in which I keep track of the arguments studied
+Simple repository in which I keep track of some notes.
 
 # Index
 ## Useful Things
 1. [Markdown](UsefulThings/Markdown)
+2. [Distributed FileSystem](UsefulThings/DistributedFileSystem)
 ## Apache
-1. [Hive](Apache/Hive.md)
+1. [Hive](Apache/Hive)
 ## Handwitten Notes
 1. [Airflow](HandwrittenNotes/AirflowNotes.pdf)
 2. [File Formats](HandwrittenNotes/FileFormatsNotes.pdf)
