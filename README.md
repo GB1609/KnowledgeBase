@@ -3,10 +3,10 @@ Simple repository in which I keep track of some notes.
 
 # Index
 ## Useful Things
-1. [Markdown](UsefulThings/Markdown)
-2. [Distributed FileSystem](UsefulThings/DistributedFileSystem)
+1. [Markdown](UsefulThings/Markdown.md)
+2. [Distributed FileSystem](UsefulThings/DistributedFileSystem.md)
 ## Apache
-1. [Hive](Apache/Hive)
+1. [Hive](Apache/Hive.md)
 ## Handwitten Notes
 1. [Airflow](HandwrittenNotes/AirflowNotes.pdf)
 2. [File Formats](HandwrittenNotes/FileFormatsNotes.pdf)
