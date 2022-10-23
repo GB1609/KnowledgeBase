@@ -7,15 +7,15 @@ Simple repository in which I keep track of the arguments studied
 ## Apache
 1. [[Hive]]
 ## Handwitten Notes
-1. [[AirflowNotes.pdf]]
-2. [[FileFormatsNotes.pdf]]
-3. [[GCPNotes.pdf]]
-4. [[HBaseNotes.pdf]]
-5. [[HDFSNotes.pdf]]
-6. [[HiveNotes.pdf]]
-7. [[KafkaNotes.pdf]]
-8. [[MLNotes.pdf]]
-9. [[NiFiNotes.pdf]]
-10. [[ScalaNotes.pdf]]
-11. [[SparkNotes.pdf]]
-12. [[TableFormatNotes.pdf]]
+1.  [Airflow](obsidian://open?vault=MyNotes&file=HandwrittenNotes%2FAirflowNotes.pdf)
+3. [File Formats](obsidian://open?vault=MyNotes&file=HandwrittenNotes%2FFileFormatsNotes.pdf)
+4. [[GCPNotes.pdf]]
+5. [[HBaseNotes.pdf]]
+6. [[HDFSNotes.pdf]]
+7. [[HiveNotes.pdf]]
+8. [[KafkaNotes.pdf]]
+9. [[MLNotes.pdf]]
+10. [[NiFiNotes.pdf]]
+11. [[ScalaNotes.pdf]]
+12. [[SparkNotes.pdf]]
+13. [[TableFormatNotes.pdf]]
