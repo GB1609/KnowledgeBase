@@ -3,19 +3,19 @@ Simple repository in which I keep track of the arguments studied
 
 # Index
 ## Useful Things
-1. [[Markdown]]
+1. [Markdown](UsefulThings/Markdown)
 ## Apache
-1. [[Hive]]
+1. [Hive](Apache/Hive.md)
 ## Handwitten Notes
 1. [Airflow](HandwrittenNotes/AirflowNotes.pdf)
-3. [[FileFormatsNotes.pdf]]
-4. [[GCPNotes.pdf]]
-5. [[HBaseNotes.pdf]]
-6. [[HDFSNotes.pdf]]
-7. [[HiveNotes.pdf]]
-8. [[KafkaNotes.pdf]]
-9. [[MLNotes.pdf]]
-10. [[NiFiNotes.pdf]]
-11. [[ScalaNotes.pdf]]
-12. [[SparkNotes.pdf]]
-13. [[TableFormatNotes.pdf]]
+2. [File Formats](HandwrittenNotes/FileFormatsNotes.pdf)
+3. [Google Cloud Notes](HandwrittenNotes/GCPNotes.pdf)
+4. [HBase](HandwrittenNotes/HBaseNotes.pdf)
+5. [HDFS](HandwrittenNotes/HDFSNotes.pdf)
+6. [Hive](HandwrittenNotes/HiveNotes.pdf)
+7. [Kafka](HandwrittenNotes/KafkaNotes.pdf)
+8. [Machine Learning](HandwrittenNotes/MLNotes.pdf)
+9. [NiFi](HandwrittenNotes/NiFiNotes.pdf)
+10. [Scala](HandwrittenNotes/ScalaNotes.pdf)
+11. [Spark](HandwrittenNotes/SparkNotes.pdf)
+12. [Table Formats](HandwrittenNotes/TableFormatNotes.pdf)
