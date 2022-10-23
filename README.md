@@ -7,8 +7,8 @@ Simple repository in which I keep track of the arguments studied
 ## Apache
 1. [[Hive]]
 ## Handwitten Notes
-1.  [AirflowNotes](file:///%2FUsers%2Fgb1609%2FObsidianProjects%2FMyNotes%2FHandwrittenNotes%2FAirflowNotes.pdf)
-2. File Formats [[FileFormatsNotes.pdf]]
+1. [Airflow](HandwrittenNotes/AirflowNotes.pdf)
+3. [[FileFormatsNotes.pdf]]
 4. [[GCPNotes.pdf]]
 5. [[HBaseNotes.pdf]]
 6. [[HDFSNotes.pdf]]
