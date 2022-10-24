@@ -58,3 +58,7 @@ HDFS fornisce comandi da terminale propri utili per la creazione di file, cartel
 # Link
 [Design](https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html)
 [Commands](https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-hdfs/HDFSCommands.html)
+
+
+
+[INDEX](../README.md)

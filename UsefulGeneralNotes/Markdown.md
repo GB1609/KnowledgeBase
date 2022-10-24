@@ -106,8 +106,8 @@ The outer pipes (|) are optional, and you don't need to make the raw Markdown li
 ### Task list
 
 To create a taksk lsit start line with square brackets with an empty space.
-Ex: [ <space> ] and add text for task.
-To check the task replace the space between the bracket with "x".
+
+To check the task replace the space between the bracket with "x"
 
 ```markdown
 [x] Write the post
@@ -117,4 +117,10 @@ To check the task replace the space between the bracket with "x".
 
 ## Reference
 Link: [markdown guide](https://www.markdownguide.org/cheat-sheet)
-[Official Documentation](https://www.markdownguide.org/)
+[Official Documentation](https://www.markdownguide.org/)ss
+
+
+
+[INDEX](../README.md)
+
+
