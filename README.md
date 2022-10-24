@@ -2,20 +2,20 @@ Simple repository in which I keep track of some notes using [**OBSIDIAN**](https
 
 # Table of contents
 ## Useful Things
-1. [[Markdown]]
-2. [[DistributedFileSystem]]
+1. [Markdown](UsefulGeneralNotes/Markdown.md)
+2. [Distributed File System](UsefulGeneralNotes/DistributedFileSystem.md)
 ## Apache
-1. [[Hive]]
+1. [Hive](Apache/Hive.md)
 ## Handwritten Notes
-1. [[AirflowNotes.pdf]]
-2. [[FileFormatsNotes.pdf]]
-3. [[GCPNotes.pdf]]
-4. [[HBaseNotes.pdf]]
-5. [[HBaseNotes.pdf]]
-6. [[HiveNotes.pdf]]
-7. [[KafkaNotes.pdf]] 
-8. [[MLNotes.pdf]]
-9. [[NiFiNotes.pdf]]
-10. [[ScalaNotes.pdf]]
-11. [[SparkNotes.pdf]]
-12. [[TableFormatNotes.pdf]]
+1. [Airflow Notes](HandwrittenNotes/AirflowNotes.pdf)
+2. [File Formats Notes](HandwrittenNotes/FileFormatsNotes.pdf)
+3. [Google Cloud Notes](HandwrittenNotes/GCPNotes.pdf)
+4. [HBase Notes](HandwrittenNotes/HBaseNotes.pdf)
+5. [HDFS Notes](HandwrittenNotes/HDFSNotes.pdf)
+6. [Hive Notes](HandwrittenNotes/HiveNotes.pdf)
+7. [Kafka Notes](HandwrittenNotes/KafkaNotes.pdf)
+8. [Machine Learning Notes](HandwrittenNotes/MLNotes.pdf)
+9. [NiFi Notes](HandwrittenNotes/NiFiNotes.pdf)
+10. [Scala Notes](HandwrittenNotes/ScalaNotes.pdf)
+11. [Spark Notes](HandwrittenNotes/SparkNotes.pdf)
+12. [Table Format Notes](HandwrittenNotes/TableFormatNotes.pdf)
