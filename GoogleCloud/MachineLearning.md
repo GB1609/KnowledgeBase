@@ -1,3 +1,5 @@
+**Tag Obsidian:** #gcp #cloud #ml #machinelearning
+
 Questa pagina contiene note fondamentali sul machine learning e come alcuni concetti e casi d'uso vengono applicati in ambiente Google Cloud Platform.
 1. Una rete neurale si addestra (**ALLENA**) tramite il corretto settaggio di **WEIGHTS** & **BIASES**
 2. Per poc o analisi di ML su testi si usa **CLOUD NATURAL LANGUAGE API.**

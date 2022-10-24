@@ -1,4 +1,4 @@
-#database #BigData #apache 
+**Tag Obsidian:** #database #BigData #apache 
 
 HDFS è un database distribuito ([DFS](../UsefulGeneralNotes/DistributedFileSystem.md)) capace di fornire uno storage per file di enormi entità ed un accesso streaming utilizzando **commodity hardware**.
 **Key Concept**:
