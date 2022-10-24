@@ -1,6 +1,6 @@
 #BigData #database 
 
-A distributed file system (DFS) is a file system that spans across multiple file servers or multiple locations, such as file servers that are situated in different physical places. Files are accessible just as if they were stored locally, from any device and from anywhere on the network.  
+A distributed file system (**DFS**) is a file system that spans across multiple file servers or multiple locations, such as file servers that are situated in different physical places. Files are accessible just as if they were stored locally, from any device and from anywhere on the network.  
 A DFS makes it convenient to share information and files among users on a network in a controlled and authorized way.  
 
 The main reason to choose a DFS is to provide access to the same data from multiple locations. In today’s increasingly hybrid cloud world, whenever you need access to the same data from the data center, to the edge, to the cloud, you would want to use a DFS.  
