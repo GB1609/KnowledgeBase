@@ -4,7 +4,7 @@ Hive è un software di **data warehouse** che i pone lo scopo di facilitare la s
 
 Hive è costruito su database Hadoop e fornisce le seguenti features:
 - tools per l'accesso ai dati via SQL con scopi di ETL, reporting o analisi
-- Un meccanismo per imporre una struttura comune ad un insieme di dati i diversa natura (Hbase, HDFS o altro)
+- Un meccanismo per imporre una struttura comune ad un insieme di dati i diversa natura (Hbase, [HDFS](HDFS) o altro)
 - Accesso diretto ai dati (ad esempio con external table)
 - Esecuzione di query tramite tool quali Spark, Map Reduce o Tez
 - Linguaggio Procedurale **HPL-SQL**

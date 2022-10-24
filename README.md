@@ -6,6 +6,7 @@ Simple repository in which I keep track of some notes using [**OBSIDIAN**](https
 2. [Distributed File System](UsefulGeneralNotes/DistributedFileSystem.md)
 ## Apache
 1. [Hive](Apache/Hive.md)
+2. [HDFS](Apache/HDFS.md)
 ## Handwritten Notes
 1. [Airflow Notes](HandwrittenNotes/AirflowNotes.pdf)
 2. [File Formats Notes](HandwrittenNotes/FileFormatsNotes.pdf)
