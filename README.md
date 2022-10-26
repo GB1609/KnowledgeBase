@@ -4,6 +4,7 @@ Simple repository in which I keep track of some notes using [**OBSIDIAN**](https
 ## Useful Things
 1. [Markdown](UsefulGeneralNotes/Markdown.md)
 2. [Distributed File System](UsefulGeneralNotes/DistributedFileSystem.md)
+3. [Git](UsefulGeneralNotes/Git.md)
 ## Apache
 1. [Hive](Apache/Hive.md)
 2. [HDFS](Apache/HDFS.md)
@@ -22,3 +23,4 @@ Simple repository in which I keep track of some notes using [**OBSIDIAN**](https
 10. [Scala Notes](HandwrittenNotes/ScalaNotes.pdf)
 11. [Spark Notes](HandwrittenNotes/SparkNotes.pdf)
 12. [Table Format Notes](HandwrittenNotes/TableFormatNotes.pdf)
+13. [CalcoloProbabilitàStatistiche](HandwrittenNotes/ProbabilitàStatistica.pdf)
