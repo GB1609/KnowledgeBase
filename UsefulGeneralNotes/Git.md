@@ -2,7 +2,7 @@
 
 Git is a **Distributed Version Control System (VCS)** open source. A VCS keeps track of every modification to the code in a special kind of database. If a mistake is made, developers can turn back the clock using rollback or revert and compare earlier versions of the code to help fix the mistake while minimizing disruption to all team members.
 
-![git-branches](gitBranchesMerge.jpg)
+![git-branches](../Attachments/gitBranchesMerge.jpg)
 
 ## Staging and Committing the Changes
 Git has something called the “staging area” or “index”. This is an intermediate area where _commits can be formatted_ _and reviewed_ before completing the commit. It is possible to add specific file to the staging area before send them to the server.
