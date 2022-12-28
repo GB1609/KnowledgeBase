@@ -91,3 +91,6 @@ Databricks SQL (DB SQL) is a serverless data warehouse on the Databricks Lakehou
 ![Workload](databricksWorkloads.jpg)
 ## Link
 https://www.databricks.com/learn/training/lakehouse-fundamentals-accreditation#videocomp
+---
+
+[[README]]

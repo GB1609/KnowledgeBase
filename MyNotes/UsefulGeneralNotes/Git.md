@@ -54,4 +54,6 @@ The `git push` command is used to upload local repository content to a remote 
 Official page: https://git-scm.com/
 All commands: https://git-scm.com/docs
 
-[INDEX](README.md)
+---
+
+[[README]]

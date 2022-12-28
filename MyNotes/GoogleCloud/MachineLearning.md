@@ -49,7 +49,6 @@ Questa pagina contiene note fondamentali sul machine learning e come alcuni conc
 26. Quando **AutoML** overfitta bisogna prendere le immagini da più angoli
 27. Se c’è **underfitting** bisogna migliorare il modello, con **overfitting** bisogna migliorare la fase di
 training
+---
 
-
-
-[INDEX](README.md)
+[[README]]

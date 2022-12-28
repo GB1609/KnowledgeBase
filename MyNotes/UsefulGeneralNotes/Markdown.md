@@ -117,10 +117,10 @@ To check the task replace the space between the bracket with "x"
 
 ## Reference
 Link: [markdown guide](https://www.markdownguide.org/cheat-sheet)
-[Official Documentation](https://www.markdownguide.org/)ss
+[Official Documentation](https://www.markdownguide.org/)
 
+---
 
-
-[INDEX](README.md)
+[[README]]
 
 
