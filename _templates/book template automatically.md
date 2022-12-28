@@ -1,5 +1,5 @@
 ---
-tag: 📚Book
+tag: [📚Book, {{author}}]
 title: "{{title}}"
 author: [{{author}}]
 publisher: {{publisher}}

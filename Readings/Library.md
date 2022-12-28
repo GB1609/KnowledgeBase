@@ -13,6 +13,17 @@ table author, ("![coverimg|95](" + cover +")") as cover
 from "Readings/Books"
 sort file.name asc
 ```
+--- 
+## All Manga
+---
+Displays all manga from the Manga folder.
+
+```dataview
+table author, ("![coverimg|95](" + cover +")") as cover
+from "Readings/Manga"
+sort volume asc
+```
+---
 ## Book Tracker
 ---
 Displays and groups all books based on their Status.
@@ -22,7 +33,7 @@ from "Readings/Books"
 group by status
 sort status
 ```
-
+--- 
 ## List of Read Books
 ---
 Displays all books with the "Read" status.

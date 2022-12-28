@@ -1,0 +1,18 @@
+{
+  "Naruto": {
+    "author": "Masashi Kishimoto",
+    "read_volumes": 72,
+    "unread_volumes": 0,
+    "publisher": "Planet Manga",
+    "cover": "https://upload.wikimedia.org/wikipedia/it/3/3e/Naruto1.jpg",
+    "editor": "Shūeisha"
+  },
+  "One Piece": {
+    "author": "Eiichirō Oda",
+    "read_volumes": 96,
+    "unread_volumes": 0,
+    "publisher": "Star Comics",
+    "cover": "https://upload.wikimedia.org/wikipedia/it/5/5e/One_Piece_vol_1.jpg",
+    "editor": "Shūeisha"
+  }
+}
