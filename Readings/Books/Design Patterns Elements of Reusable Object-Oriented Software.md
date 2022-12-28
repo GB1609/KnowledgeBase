@@ -1,5 +1,5 @@
 ---
-tag: 📚Book
+tag: [📚Book,ComputerScience]
 title: "Design Patterns"
 author: [Erich Gamma, Richard Helm, Craig Larman, Ralph Johnson, John M. Vlissides]
 publisher: Addison-Wesley

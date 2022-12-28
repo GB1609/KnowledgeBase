@@ -1,5 +1,5 @@
 ---
-tag: 📚Book
+tag: [📚Book, ComputerScience, DesignPattern]
 title: "Learning Domain-Driven Design"
 author: [Vlad Khononov]
 publisher: "O'Reilly Media, Inc."

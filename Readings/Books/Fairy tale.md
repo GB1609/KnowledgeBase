@@ -1,5 +1,5 @@
 ---
-tag: 📚Book
+tag: [📚Book, StephenKing]
 title: "Fairy Tale"
 author: [Stephen King]
 publisher: SPERLING & KUPFER

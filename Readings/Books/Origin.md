@@ -1,5 +1,5 @@
 ---
-tag: 📚Book
+tag: [📚Book, DanBrown]
 title: "Origin"
 author: [Dan Brown]
 publisher: Edizioni Mondadori
