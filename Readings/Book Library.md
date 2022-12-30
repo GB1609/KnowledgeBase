@@ -14,16 +14,6 @@ from "Readings/Books"
 sort file.name asc
 ```
 --- 
-## All Manga
----
-Displays all manga from the Manga folder.
-
-```dataview
-table author, ("![coverimg|95](" + cover +")") as cover
-from "Readings/Manga"
-sort volume asc
-```
----
 ## Book Tracker
 ---
 Displays and groups all books based on their Status.

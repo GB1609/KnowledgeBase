@@ -4,40 +4,26 @@ import stringcase
 
 logger = logging.getLogger('take_trial_data')
 
-template = """
-    ---
-    tag: [📚Manga, {other_tags}]
-    title: "{title}, Vol {volume}"
-    vol: {volume}
-    author: [{author}]
-    publisher: {publisher}
-    cover: {cover}
-    status: {status}
-    editor: {editor}
-    ---
-
-
-    - Metadata:
-        - **Author:** `= this.author`
-        - **Status:** `= this.status`
-        - **Vol:** `= this.vol`
-    
-    This is the book note. Switch to Edit mode (Ctrl+E or Command+E on the Mac) to see the book note's YAML frontmatter.
-    """
-
 if __name__ == '__main__':
-    manga_infos = json.load(open("configuration.json"))
-    for manga in manga_infos:
+    conf = json.load(open("configuration.json"))
+    logger.info("CONFIGURATION FILE:\n")
+    logger.info(conf)
+    template = open(f"../_templates/manga template manually.md", 'r').read()
+    logger.info("TEMPLATE FILE:\n")
+    logger.info(template)
+    for manga in conf:
         # read info from configuration file
         name = manga
-        read_volumes = manga_infos[manga]["read_volumes"]
-        to_read_volumes = manga_infos[manga]["unread_volumes"]
-        publisher = manga_infos[manga]["publisher"]
-        cover = manga_infos[manga]["cover"]
-        editor = manga_infos[manga]["editor"]
+        read_volumes = conf[manga]["read_volumes"]
+        to_read_volumes = conf[manga]["unread_volumes"]
+        publisher = conf[manga]["publisher"]
+        cover = conf[manga]["cover"]
+        editor = conf[manga]["editor"]
         total_volumes = read_volumes + to_read_volumes
-        author = manga_infos[manga]["author"]
+        author = conf[manga]["author"]
+        bought = conf[manga]["bought"]
         other_tags = ', '.join([stringcase.camelcase(tag.lower().replace(" ", "_")) for tag in [author]])
+        missing = conf[manga]["missing"]
 
         for num_volume in range(1, total_volumes + 1):
             new_read_manga_to_clean = template.format(
@@ -46,6 +32,7 @@ if __name__ == '__main__':
                 author=author,
                 publisher=publisher,
                 cover=cover,
+                bought=True if num_volume > bought or num_volume not in missing else False,
                 status="Read" if num_volume <= read_volumes else "Unread",
                 editor=editor,
                 other_tags=other_tags

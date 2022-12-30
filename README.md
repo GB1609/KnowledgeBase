@@ -39,5 +39,9 @@ Simple repository in which I keep track of some notes using [**OBSIDIAN**](https
 13. [[ProbabilitàStatistica.pdf]]
 --- 
 
-## [[Library]]
+## [[Book Library]]
+
+---
+
+
 

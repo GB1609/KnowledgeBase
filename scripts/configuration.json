@@ -5,7 +5,13 @@
     "unread_volumes": 0,
     "publisher": "Planet Manga",
     "cover": "https://upload.wikimedia.org/wikipedia/it/3/3e/Naruto1.jpg",
-    "editor": "Shūeisha"
+    "editor": "Shūeisha",
+    "bought": 72,
+    "missing": [
+      47,
+      51,
+      52
+    ]
   },
   "One Piece": {
     "author": "Eiichirō Oda",
@@ -13,6 +19,18 @@
     "unread_volumes": 0,
     "publisher": "Star Comics",
     "cover": "https://upload.wikimedia.org/wikipedia/it/5/5e/One_Piece_vol_1.jpg",
-    "editor": "Shūeisha"
+    "editor": "Shūeisha",
+    "bought": 96,
+    "missing": []
+  },
+  "Dragon Ball Full Color": {
+    "author": "Akira Toriyama",
+    "read_volumes": 32,
+    "unread_volumes": 0,
+    "publisher": "Star Comics",
+    "cover": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3f/Dragon_Ball_cover_1.jpg/1024px-Dragon_Ball_cover_1.jpg",
+    "editor": "Shūeisha",
+    "bought": 32,
+    "missing": []
   }
 }
