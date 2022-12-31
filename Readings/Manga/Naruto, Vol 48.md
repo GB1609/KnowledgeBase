@@ -1,5 +1,5 @@
 ---
-tag: [📚Manga, masashiKishimoto]
+tag: [📚Manga, ]
 title: "Naruto, Vol 48"
 vol: 48
 author: [Masashi Kishimoto]
@@ -12,8 +12,8 @@ editor: Shūeisha
 
 
 - Metadata:
-- **Author:** `= this.author`
-- **Status:** `= this.status`
-- **Vol:** `= this.vol`
+	- **Author:** `= this.author`
+	- **Status:** `= this.status`
+	- **Vol:** `= this.vol`
 
 This is the book note. Switch to Edit mode (Ctrl+E or Command+E on the Mac) to see the book note's YAML frontmatter.
