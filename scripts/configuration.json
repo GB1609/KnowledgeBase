@@ -32,5 +32,45 @@
     "editor": "Shūeisha",
     "bought": 32,
     "missing": []
+  },
+  "20th Century Boys Ultimate Deluxe Edition": {
+    "author": "Naoki Urasawa",
+    "read_volumes": 0,
+    "unread_volumes": 11,
+    "publisher": "Planet Manga",
+    "cover": "https://www.panini.it/media/catalog/product/cache/13663c26e06782c6b72cb4ce7e6046f4/m/2/m2cbu001isbn_0.jpg",
+    "editor": "Shūeisha",
+    "bought": 9,
+    "missing": []
+  },
+  "Death Note": {
+    "author": "Tsugumi Ōba",
+    "read_volumes": 13,
+    "unread_volumes": 0,
+    "publisher": "Planet Manga",
+    "cover": "https://upload.wikimedia.org/wikipedia/it/0/08/Death_Note_volume_01.jpg",
+    "editor": "Shūeisha",
+    "bought": 13,
+    "missing": []
+  },
+  "Death Shield": {
+    "author": ["Luca Molinaro", "Giorgio Battisti"],
+    "read_volumes": 0,
+    "unread_volumes": 3,
+    "publisher": "Shockdom",
+    "cover": "https://www.animeclick.it/immagini/manga/Death_Shield/cover/Death_Shield-cover.jpg",
+    "editor": "Shockdom",
+    "bought": 3,
+    "missing": []
+  },
+  "5cm al secondo": {
+    "author": "Makoto Shinkai",
+    "read_volumes": 0,
+    "unread_volumes": 2,
+    "publisher": "Planet Manga",
+    "cover": "[[5cmAlSecondo]]",
+    "editor": "Shūeisha",
+    "bought": 2,
+    "missing": []
   }
 }
