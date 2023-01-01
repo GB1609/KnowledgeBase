@@ -1,147 +1,216 @@
 {
-  "Death Shield": {
-    "author": [
-      "Luca Molinaro",
-      "Giorgio Battisti"
-    ],
-    "tags": [],
-    "read_volumes": 0,
-    "unread_volumes": 3,
-    "publisher": "Shockdom",
-    "cover": "https://www.animeclick.it/immagini/manga/Death_Shield/cover/Death_Shield-cover.jpg",
-    "editor": "Shockdom",
-    "bought": 3,
-    "missing": []
-  },
-  "Naruto": {
-    "author": "Masashi Kishimoto",
-    "tags": [],
-    "read_volumes": 72,
-    "unread_volumes": 0,
-    "publisher": "Planet Manga",
-    "cover": "https://upload.wikimedia.org/wikipedia/it/3/3e/Naruto1.jpg",
-    "editor": "Shūeisha",
-    "bought": 72,
-    "missing": [
-      47,
-      51,
-      52
-    ]
-  },
-  "One Piece": {
-    "author": "Eiichirō Oda",
-    "tags": [],
-    "read_volumes": 96,
-    "unread_volumes": 0,
-    "publisher": "Star Comics",
-    "cover": "https://upload.wikimedia.org/wikipedia/it/5/5e/One_Piece_vol_1.jpg",
-    "editor": "Shūeisha",
-    "bought": 96,
-    "missing": []
-  },
-  "Dragon Ball Full Color": {
-    "author": "Akira Toriyama",
-    "tags": [],
-    "read_volumes": 32,
-    "unread_volumes": 0,
-    "publisher": "Star Comics",
-    "cover": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3f/Dragon_Ball_cover_1.jpg/1024px-Dragon_Ball_cover_1.jpg",
-    "editor": "Shūeisha",
-    "bought": 32,
-    "missing": []
-  },
   "20th Century Boys Ultimate Deluxe Edition": {
     "author": "Naoki Urasawa",
-    "tags": [],
-    "read_volumes": 0,
-    "unread_volumes": 11,
-    "publisher": "Planet Manga",
+    "bought": 9,
     "cover": "https://www.panini.it/media/catalog/product/cache/13663c26e06782c6b72cb4ce7e6046f4/m/2/m2cbu001isbn_0.jpg",
     "editor": "Shūeisha",
-    "bought": 9,
-    "missing": []
-  },
-  "Death Note": {
-    "author": "Tsugumi Ōba",
-    "tags": [],
-    "read_volumes": 13,
-    "unread_volumes": 0,
+    "missing": [],
     "publisher": "Planet Manga",
-    "cover": "https://upload.wikimedia.org/wikipedia/it/0/08/Death_Note_volume_01.jpg",
-    "editor": "Shūeisha",
-    "bought": 13,
-    "missing": []
+    "read_volumes": 0,
+    "tags": [],
+    "unread_volumes": 11
   },
   "5cm al secondo": {
     "author": "Makoto Shinkai",
-    "tags": [],
-    "read_volumes": 0,
-    "unread_volumes": 2,
-    "publisher": "Planet Manga",
+    "bought": 2,
     "cover": "https://upload.wikimedia.org/wikipedia/it/a/a5/Byousoku5Centimeter.jpg",
     "editor": "Shūeisha",
-    "bought": 2,
-    "missing": []
+    "missing": [],
+    "publisher": "Planet Manga",
+    "read_volumes": 0,
+    "tags": [],
+    "unread_volumes": 2
   },
   "Akira, nuova edizione": {
     "author": "Katsuhiro Ōtomo",
-    "tags": [],
-    "read_volumes": 0,
-    "unread_volumes": 6,
-    "publisher": "Planet Manga",
+    "bought": 1,
     "cover": "https://upload.wikimedia.org/wikipedia/it/0/01/Akira_copertina_numero_5.jpg",
     "editor": "Kōdansha",
-    "bought": 1,
-    "missing": []
+    "missing": [],
+    "publisher": "Planet Manga",
+    "read_volumes": 0,
+    "tags": [],
+    "unread_volumes": 6
   },
   "Attack on Titan": {
     "author": "Hajime Isayama",
-    "tags": [],
-    "read_volumes": 34,
-    "unread_volumes": 0,
-    "publisher": "Planet Manga",
+    "bought": 34,
     "cover": "https://upload.wikimedia.org/wikipedia/it/thumb/4/4d/L%27attacco_dei_giganti_copertina.jpeg/800px-L%27attacco_dei_giganti_copertina.jpeg",
     "editor": "Kōdansha",
-    "bought": 34,
-    "missing": []
+    "missing": [],
+    "publisher": "Planet Manga",
+    "read_volumes": 34,
+    "tags": [],
+    "unread_volumes": 0
   },
   "Berserk Collection": {
     "author": [
       "Kentarō Miura",
       "Kōji Mori"
     ],
-    "tags": [],
-    "read_volumes": 0,
-    "unread_volumes": 41,
-    "publisher": "Panini",
+    "bought": 2,
     "cover": "https://upload.wikimedia.org/wikipedia/it/5/55/Berserk_60_1ed.jpg",
     "editor": "Hakusensha",
-    "bought": 2,
-    "missing": []
+    "missing": [],
+    "publisher": "Panini",
+    "read_volumes": 0,
+    "tags": [],
+    "unread_volumes": 41
   },
   "Blue Lock": {
     "author": [
       "Muneyuki Kaneshiro",
       "Yusuke Nomura"
     ],
-    "tags": [],
-    "read_volumes": 4,
-    "unread_volumes": 12,
-    "publisher": "Planet Manga",
+    "bought": 4,
     "cover": "https://upload.wikimedia.org/wikipedia/it/2/2a/Blue_Lock_Volume_1.jpg",
     "editor": "Kōdansha",
-    "bought": 4,
-    "missing": []
+    "missing": [],
+    "publisher": "Planet Manga",
+    "read_volumes": 4,
+    "tags": [],
+    "unread_volumes": 12
   },
   "Boruto": {
     "author": "Masashi Kishimoto",
-    "tags": [],
-    "read_volumes": 0,
-    "unread_volumes": 17,
-    "publisher": "Planet Manga",
+    "bought": 17,
     "cover": "https://upload.wikimedia.org/wikipedia/it/4/46/Boruto_Naruto_Next_Generations_Volume_1.jpg",
     "editor": "Shūeisha",
-    "bought": 17,
-    "missing": []
+    "missing": [],
+    "publisher": "Planet Manga",
+    "read_volumes": 0,
+    "tags": [],
+    "unread_volumes": 17
+  },
+  "Capitan Tsubasa New Edition": {
+    "author": "Yōichi Takahashi",
+    "bought": 21,
+    "cover": "https://upload.wikimedia.org/wikipedia/it/thumb/a/a9/Capitan-tsubasa.jpg/1280px-Capitan-tsubasa.jpg",
+    "editor": "Shūeisha",
+    "missing": [],
+    "publisher": "Star Comics",
+    "read_volumes": 21,
+    "tags": [],
+    "unread_volumes": 0
+  },
+  "Chainsaw Man": {
+    "author": "Tatsuki Fujimoto",
+    "bought": 14,
+    "cover": "https://upload.wikimedia.org/wikipedia/it/c/cb/Chainsaw_Man_Volume_1.jpg",
+    "editor": "Shūeisha",
+    "missing": [],
+    "publisher": "Planet Manga",
+    "read_volumes": 0,
+    "tags": [],
+    "unread_volumes": 14
+  },
+  "Death Note": {
+    "author": "Tsugumi Ōba",
+    "bought": 13,
+    "cover": "https://upload.wikimedia.org/wikipedia/it/0/08/Death_Note_volume_01.jpg",
+    "editor": "Shūeisha",
+    "missing": [],
+    "publisher": "Planet Manga",
+    "read_volumes": 13,
+    "tags": [],
+    "unread_volumes": 0
+  },
+  "Death Shield": {
+    "author": [
+      "Giorgio Battisti",
+      "Luca Molinaro"
+    ],
+    "bought": 3,
+    "cover": "https://www.animeclick.it/immagini/manga/Death_Shield/cover/Death_Shield-cover.jpg",
+    "editor": "Shockdom",
+    "missing": [],
+    "publisher": "Shockdom",
+    "read_volumes": 0,
+    "tags": [],
+    "unread_volumes": 3
+  },
+  "Demon Slave": {
+    "author": [
+      "Takahiro",
+      "Yohei Takemura"
+    ],
+    "bought": 1,
+    "cover": "https://upload.wikimedia.org/wikipedia/it/a/a6/Demon_Slave_Volume_1.png",
+    "editor": "Shūeisha",
+    "missing": [],
+    "publisher": "Panini Comincs",
+    "read_volumes": 0,
+    "tags": [],
+    "unread_volumes": 4
+  },
+  "Demon Slayer": {
+    "author": "Koyoharu Gotōge",
+    "bought": 21,
+    "cover": "https://upload.wikimedia.org/wikipedia/it/4/45/Demon_Slayer_-_Kimetsu_no_yaiba.jpg",
+    "editor": "Shūeisha",
+    "missing": [],
+    "publisher": "Star Comics",
+    "read_volumes": 12,
+    "tags": [],
+    "unread_volumes": 9
+  },
+  "DevilMan Omnibus": {
+    "author": "Gō Nagai",
+    "bought": 1,
+    "cover": "https://upload.wikimedia.org/wikipedia/it/e/e3/Devilman_omnibus.jpg",
+    "editor": "Kōdansha",
+    "missing": [],
+    "publisher": "J-Pop",
+    "read_volumes": 0,
+    "tags": [],
+    "unread_volumes": 1
+  },
+  "Dragon Ball Full Color": {
+    "author": "Akira Toriyama",
+    "bought": 32,
+    "cover": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3f/Dragon_Ball_cover_1.jpg/1024px-Dragon_Ball_cover_1.jpg",
+    "editor": "Shūeisha",
+    "missing": [],
+    "publisher": "Star Comics",
+    "read_volumes": 32,
+    "tags": [],
+    "unread_volumes": 0
+  },
+  "Eighty Six": {
+    "author": "Asato Asato",
+    "bought": 3,
+    "cover": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXNHLtni14AWq1l-P_0V4NFejsabNj_Bv61MgsK2wfiGsFeoue",
+    "editor": "Square Enix",
+    "missing": [],
+    "publisher": "J-Pop",
+    "read_volumes": 3,
+    "tags": [],
+    "unread_volumes": 0
+  },
+  "Naruto": {
+    "author": "Masashi Kishimoto",
+    "bought": 72,
+    "cover": "https://upload.wikimedia.org/wikipedia/it/3/3e/Naruto1.jpg",
+    "editor": "Shūeisha",
+    "missing": [
+      47,
+      51,
+      52
+    ],
+    "publisher": "Planet Manga",
+    "read_volumes": 72,
+    "tags": [],
+    "unread_volumes": 0
+  },
+  "One Piece": {
+    "author": "Eiichirō Oda",
+    "bought": 96,
+    "cover": "https://upload.wikimedia.org/wikipedia/it/5/5e/One_Piece_vol_1.jpg",
+    "editor": "Shūeisha",
+    "missing": [],
+    "publisher": "Star Comics",
+    "read_volumes": 96,
+    "tags": [],
+    "unread_volumes": 0
   }
 }
