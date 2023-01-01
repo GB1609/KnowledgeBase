@@ -1,13 +1,13 @@
 ---
-tag: [📚Manga, giorgioBattisti, lucaMolinaro]
-title: "Death Shield, Vol 3"
+tag: [📚Manga, ]
+title: "Chainsaw Man, Vol 3"
 vol: 3
-author: [['Giorgio Battisti', 'Luca Molinaro']]
-publisher: Shockdom
-cover: https://www.animeclick.it/immagini/manga/Death_Shield/cover/Death_Shield-cover.jpg
+author: [Tatsuki Fujimoto]
+publisher: Planet Manga
+cover: https://upload.wikimedia.org/wikipedia/it/c/cb/Chainsaw_Man_Volume_1.jpg
 bought: True
 status: Unread
-editor: Shockdom
+editor: Shūeisha
 ---
 
 

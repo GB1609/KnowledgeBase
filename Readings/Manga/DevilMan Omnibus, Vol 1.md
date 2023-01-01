@@ -1,13 +1,13 @@
 ---
-tag: [📚Manga, giorgioBattisti, lucaMolinaro]
-title: "Death Shield, Vol 1"
+tag: [📚Manga, ]
+title: "DevilMan Omnibus, Vol 1"
 vol: 1
-author: [['Giorgio Battisti', 'Luca Molinaro']]
-publisher: Shockdom
-cover: https://www.animeclick.it/immagini/manga/Death_Shield/cover/Death_Shield-cover.jpg
+author: [Gō Nagai]
+publisher: J-Pop
+cover: https://upload.wikimedia.org/wikipedia/it/e/e3/Devilman_omnibus.jpg
 bought: True
 status: Unread
-editor: Shockdom
+editor: Kōdansha
 ---
 
 

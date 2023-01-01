@@ -10,10 +10,10 @@ def to_tag(element: str) -> str:
 
 
 if __name__ == '__main__':
-    conf = json.load(open("configuration.json"))
+    conf = json.load(open("configuration.json", encoding="utf-8"))
     logger.info("CONFIGURATION FILE:\n")
     logger.info(conf)
-    template = open(f"../_templates/manga template manually.md", 'r').read()
+    template = open(f"../_templates/manga template manually.md", 'r', encoding="utf-8").read()
     logger.info("TEMPLATE FILE:\n")
     logger.info(template)
     for manga in conf:
@@ -49,6 +49,6 @@ if __name__ == '__main__':
             )
 
             file_name = f'{name}, Vol {num_volume}.md'
-            with open(f"../Readings/Manga/{file_name}", 'w') as f:
+            with open(f"../Readings/Manga/{file_name}", 'w', encoding="utf-8") as f:
                 f.writelines(new_read_manga)
                 logger.info(f'Create file {file_name}!')

@@ -1,13 +1,13 @@
 ---
-tag: [📚Manga, giorgioBattisti, lucaMolinaro]
-title: "Death Shield, Vol 1"
+tag: [📚Manga, takahiro, yoheiTakemura]
+title: "Demon Slave, Vol 1"
 vol: 1
-author: [['Giorgio Battisti', 'Luca Molinaro']]
-publisher: Shockdom
-cover: https://www.animeclick.it/immagini/manga/Death_Shield/cover/Death_Shield-cover.jpg
+author: [['Takahiro', 'Yohei Takemura']]
+publisher: Panini Comincs
+cover: https://upload.wikimedia.org/wikipedia/it/a/a6/Demon_Slave_Volume_1.png
 bought: True
 status: Unread
-editor: Shockdom
+editor: Shūeisha
 ---
 
 
