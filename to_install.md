@@ -2,6 +2,7 @@
 
 ## Theme
 - Obsidian Nord
+- Atom
 
 ## Plugins
 
