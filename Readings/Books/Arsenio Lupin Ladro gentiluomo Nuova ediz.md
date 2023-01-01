@@ -1,5 +1,5 @@
 ---
-tag: [📚Book, Maurice Leblanc]
+tag: [📚Book, MauriceLeblanc]
 title: "Arsenio Lupin. Ladro gentiluomo. Nuova ediz."
 author: [Maurice Leblanc]
 publisher: 
