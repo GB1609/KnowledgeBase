@@ -1,210 +1,500 @@
 {
-  "20th Century Boys Ultimate Deluxe Edition" : {
-    "author" : "Naoki Urasawa",
-    "bought" : 9,
-    "cover" : "https://www.panini.it/media/catalog/product/cache/13663c26e06782c6b72cb4ce7e6046f4/m/2/m2cbu001isbn_0.jpg",
-    "editor" : "Shūeisha",
-    "missing" : [],
-    "publisher" : "Planet Manga",
-    "read_volumes" : 0,
-    "tags" : [],
-    "unread_volumes" : 11
-  },
-  "5cm al secondo" : {
-    "author" : "Makoto Shinkai",
-    "bought" : 2,
-    "cover" : "https://upload.wikimedia.org/wikipedia/it/a/a5/Byousoku5Centimeter.jpg",
-    "editor" : "Shūeisha",
-    "missing" : [],
-    "publisher" : "Planet Manga",
-    "read_volumes" : 0,
-    "tags" : [],
-    "unread_volumes" : 2
-  },
-  "Akira, nuova edizione" : {
-    "author" : "Katsuhiro Ōtomo",
-    "bought" : 1,
-    "cover" : "https://upload.wikimedia.org/wikipedia/it/0/01/Akira_copertina_numero_5.jpg",
-    "editor" : "Kōdansha",
-    "missing" : [],
-    "publisher" : "Planet Manga",
-    "read_volumes" : 0,
-    "tags" : [],
-    "unread_volumes" : 6
-  },
-  "Attack on Titan" : {
-    "author" : "Hajime Isayama",
-    "bought" : 34,
-    "cover" : "https://upload.wikimedia.org/wikipedia/it/thumb/4/4d/L%27attacco_dei_giganti_copertina.jpeg/800px-L%27attacco_dei_giganti_copertina.jpeg",
-    "editor" : "Kōdansha",
-    "missing" : [],
-    "publisher" : "Planet Manga",
-    "read_volumes" : 34,
-    "tags" : [],
-    "unread_volumes" : 0
-  },
-  "Berserk Collection" : {
-    "author" : [
-      "Kentarō Miura", "Kōji Mori"
-    ],
-    "bought" : 2,
-    "cover" : "https://upload.wikimedia.org/wikipedia/it/5/55/Berserk_60_1ed.jpg",
-    "editor" : "Hakusensha",
-    "missing" : [],
-    "publisher" : "Panini",
-    "read_volumes" : 0,
-    "tags" : [],
-    "unread_volumes" : 41
-  },
-  "Blue Lock" : {
-    "author" : [
-      "Muneyuki Kaneshiro", "Yusuke Nomura"
-    ],
-    "bought" : 4,
-    "cover" : "https://upload.wikimedia.org/wikipedia/it/2/2a/Blue_Lock_Volume_1.jpg",
-    "editor" : "Kōdansha",
-    "missing" : [],
-    "publisher" : "Planet Manga",
-    "read_volumes" : 4,
-    "tags" : [],
-    "unread_volumes" : 12
-  },
-  "Boruto" : {
-    "author" : "Masashi Kishimoto",
-    "bought" : 17,
-    "cover" : "https://upload.wikimedia.org/wikipedia/it/4/46/Boruto_Naruto_Next_Generations_Volume_1.jpg",
-    "editor" : "Shūeisha",
-    "missing" : [],
-    "publisher" : "Planet Manga",
-    "read_volumes" : 0,
-    "tags" : [],
-    "unread_volumes" : 17
-  },
-  "Capitan Tsubasa New Edition" : {
-    "author" : "Yōichi Takahashi",
-    "bought" : 21,
-    "cover" : "https://upload.wikimedia.org/wikipedia/it/thumb/a/a9/Capitan-tsubasa.jpg/1280px-Capitan-tsubasa.jpg",
-    "editor" : "Shūeisha",
-    "missing" : [],
-    "publisher" : "Star Comics",
-    "read_volumes" : 21,
-    "tags" : [],
-    "unread_volumes" : 0
-  },
-  "Chainsaw Man" : {
-    "author" : "Tatsuki Fujimoto",
-    "bought" : 14,
-    "cover" : "https://upload.wikimedia.org/wikipedia/it/c/cb/Chainsaw_Man_Volume_1.jpg",
-    "editor" : "Shūeisha",
-    "missing" : [],
-    "publisher" : "Planet Manga",
-    "read_volumes" : 0,
-    "tags" : [],
-    "unread_volumes" : 14
-  },
-  "Death Note" : {
-    "author" : "Tsugumi Ōba",
-    "bought" : 13,
-    "cover" : "https://upload.wikimedia.org/wikipedia/it/0/08/Death_Note_volume_01.jpg",
-    "editor" : "Shūeisha",
-    "missing" : [],
-    "publisher" : "Planet Manga",
-    "read_volumes" : 13,
-    "tags" : [],
-    "unread_volumes" : 0
-  },
-  "Death Shield" : {
-    "author" : [
-      "Giorgio Battisti", "Luca Molinaro"
-    ],
-    "bought" : 3,
-    "cover" : "https://www.animeclick.it/immagini/manga/Death_Shield/cover/Death_Shield-cover.jpg",
-    "editor" : "Shockdom",
-    "missing" : [],
-    "publisher" : "Shockdom",
-    "read_volumes" : 0,
-    "tags" : [],
-    "unread_volumes" : 3
-  },
-  "Demon Slave" : {
-    "author" : [
-      "Takahiro", "Yohei Takemura"
-    ],
-    "bought" : 1,
-    "cover" : "https://upload.wikimedia.org/wikipedia/it/a/a6/Demon_Slave_Volume_1.png",
-    "editor" : "Shūeisha",
-    "missing" : [],
-    "publisher" : "Panini Comincs",
-    "read_volumes" : 0,
-    "tags" : [],
-    "unread_volumes" : 4
-  },
-  "Demon Slayer" : {
-    "author" : "Koyoharu Gotōge",
-    "bought" : 21,
-    "cover" : "https://upload.wikimedia.org/wikipedia/it/4/45/Demon_Slayer_-_Kimetsu_no_yaiba.jpg",
-    "editor" : "Shūeisha",
-    "missing" : [],
-    "publisher" : "Star Comics",
-    "read_volumes" : 12,
-    "tags" : [],
-    "unread_volumes" : 9
-  },
-  "DevilMan Omnibus" : {
-    "author" : "Gō Nagai",
-    "bought" : 1,
-    "cover" : "https://upload.wikimedia.org/wikipedia/it/e/e3/Devilman_omnibus.jpg",
-    "editor" : "Kōdansha",
-    "missing" : [],
-    "publisher" : "J-Pop",
-    "read_volumes" : 0,
-    "tags" : [],
-    "unread_volumes" : 1
-  },
-  "Dragon Ball Full Color" : {
-    "author" : "Akira Toriyama",
-    "bought" : 32,
-    "cover" : "https://upload.wikimedia.org/wikipedia/it/thumb/3/3f/Dragon_Ball_cover_1.jpg/1024px-Dragon_Ball_cover_1.jpg",
-    "editor" : "Shūeisha",
-    "missing" : [],
-    "publisher" : "Star Comics",
-    "read_volumes" : 32,
-    "tags" : [],
-    "unread_volumes" : 0
-  },
-  "Eighty Six" : {
-    "author" : "Asato Asato",
-    "bought" : 3,
-    "cover" : "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXNHLtni14AWq1l-P_0V4NFejsabNj_Bv61MgsK2wfiGsFeoue",
-    "editor" : "Square Enix",
-    "missing" : [],
-    "publisher" : "J-Pop",
-    "read_volumes" : 3,
-    "tags" : [],
-    "unread_volumes" : 0
-  },
-  "Naruto" : {
-    "author" : "Masashi Kishimoto",
-    "bought" : 72,
-    "cover" : "https://upload.wikimedia.org/wikipedia/it/3/3e/Naruto1.jpg",
-    "editor" : "Shūeisha",
-    "missing" : [
-      47, 51, 52
-    ],
-    "publisher" : "Planet Manga",
-    "read_volumes" : 72,
-    "tags" : [],
-    "unread_volumes" : 0
-  },
-  "One Piece" : {
-    "author" : "Eiichirō Oda",
-    "bought" : 96,
-    "cover" : "https://upload.wikimedia.org/wikipedia/it/5/5e/One_Piece_vol_1.jpg",
-    "editor" : "Shūeisha",
-    "missing" : [],
-    "publisher" : "Star Comics",
-    "read_volumes" : 96,
-    "tags" : [],
-    "unread_volumes" : 0
+  "completed" : [
+    "Your Name", "5cm al secondo", "Attack on Titan", "Capitan Tsubasa New Edition", "Chainsaw Man", "Death Note",
+    "Death Shield", "DevilMan Omnibus", "Dragon Ball Full Color", "Girl From the Other Side",
+    "Il Giardino delle Parole", "La Divina Commedia", "La Voce delle stelle", "Shaman King Final Edition",
+    "The Promised Neverland", "The Seven Deadly Sins", "Tokyo Ghoul", "Weathering with you", "Your Name"
+  ],
+  "manga" : {
+    "Akira, nuova edizione" : {
+      "author" : "Katsuhiro Ōtomo",
+      "bought" : 1,
+      "cover" : "https://upload.wikimedia.org/wikipedia/it/0/01/Akira_copertina_numero_5.jpg",
+      "editor" : "Kōdansha",
+      "missing" : [],
+      "publisher" : "Planet Manga",
+      "read_volumes" : 0,
+      "tags" : []
+    },
+    "20th Century Boys Ultimate Deluxe Edition" : {
+      "author" : "Naoki Urasawa",
+      "bought" : 9,
+      "cover" : "https://www.panini.it/media/catalog/product/cache/13663c26e06782c6b72cb4ce7e6046f4/m/2/m2cbu001isbn_0.jpg",
+      "editor" : "Shūeisha",
+      "missing" : [],
+      "publisher" : "Planet Manga",
+      "read_volumes" : 0,
+      "tags" : []
+    },
+    "5cm al secondo" : {
+      "author" : "Makoto Shinkai",
+      "bought" : 2,
+      "cover" : "https://upload.wikimedia.org/wikipedia/it/a/a5/Byousoku5Centimeter.jpg",
+      "editor" : "Shūeisha",
+      "missing" : [],
+      "publisher" : "Planet Manga",
+      "read_volumes" : 0,
+      "tags" : []
+    },
+    "Attack on Titan" : {
+      "author" : "Hajime Isayama",
+      "bought" : 34,
+      "cover" : "https://upload.wikimedia.org/wikipedia/it/thumb/4/4d/L%27attacco_dei_giganti_copertina.jpeg/800px-L%27attacco_dei_giganti_copertina.jpeg",
+      "editor" : "Kōdansha",
+      "missing" : [],
+      "publisher" : "Planet Manga",
+      "read_volumes" : 34,
+      "tags" : []
+    },
+    "Berserk Collection" : {
+      "author" : ["Kentarō Miura", "Kōji Mori"],
+      "bought" : 2,
+      "cover" : "https://upload.wikimedia.org/wikipedia/it/5/55/Berserk_60_1ed.jpg",
+      "editor" : "Hakusensha",
+      "missing" : [],
+      "publisher" : "Panini",
+      "read_volumes" : 0,
+      "tags" : []
+    },
+    "Blue Lock" : {
+      "author" : ["Muneyuki Kaneshiro", "Yusuke Nomura"],
+      "bought" : 4,
+      "cover" : "https://upload.wikimedia.org/wikipedia/it/2/2a/Blue_Lock_Volume_1.jpg",
+      "editor" : "Kōdansha",
+      "missing" : [],
+      "publisher" : "Planet Manga",
+      "read_volumes" : 4,
+      "tags" : []
+    },
+    "Boruto" : {
+      "author" : "Masashi Kishimoto",
+      "bought" : 17,
+      "cover" : "https://upload.wikimedia.org/wikipedia/it/4/46/Boruto_Naruto_Next_Generations_Volume_1.jpg",
+      "editor" : "Shūeisha",
+      "missing" : [],
+      "publisher" : "Planet Manga",
+      "read_volumes" : 0,
+      "tags" : []
+    },
+    "Capitan Tsubasa New Edition" : {
+      "author" : "Yōichi Takahashi",
+      "bought" : 21,
+      "cover" : "https://upload.wikimedia.org/wikipedia/it/thumb/a/a9/Capitan-tsubasa.jpg/1280px-Capitan-tsubasa.jpg",
+      "editor" : "Shūeisha",
+      "missing" : [],
+      "publisher" : "Star Comics",
+      "read_volumes" : 21,
+      "tags" : []
+    },
+    "Chainsaw Man" : {
+      "author" : "Tatsuki Fujimoto",
+      "bought" : 14,
+      "cover" : "https://upload.wikimedia.org/wikipedia/it/c/cb/Chainsaw_Man_Volume_1.jpg",
+      "editor" : "Shūeisha",
+      "missing" : [],
+      "publisher" : "Planet Manga",
+      "read_volumes" : 0,
+      "tags" : []
+    },
+    "Death Note" : {
+      "author" : "Tsugumi Ōba",
+      "bought" : 13,
+      "cover" : "https://upload.wikimedia.org/wikipedia/it/0/08/Death_Note_volume_01.jpg",
+      "editor" : "Shūeisha",
+      "missing" : [],
+      "publisher" : "Planet Manga",
+      "read_volumes" : 13,
+      "tags" : []
+    },
+    "Death Shield" : {
+      "author" : ["Giorgio Battisti", "Luca Molinaro"],
+      "bought" : 3,
+      "cover" : "https://www.animeclick.it/immagini/manga/Death_Shield/cover/Death_Shield-cover.jpg",
+      "editor" : "Shockdom",
+      "missing" : [],
+      "publisher" : "Shockdom",
+      "read_volumes" : 0,
+      "tags" : []
+    },
+    "Demon Slave" : {
+      "author" : ["Takahiro", "Yohei Takemura"],
+      "bought" : 1,
+      "cover" : "https://upload.wikimedia.org/wikipedia/it/a/a6/Demon_Slave_Volume_1.png",
+      "editor" : "Shūeisha",
+      "missing" : [],
+      "publisher" : "Panini Comics",
+      "read_volumes" : 0,
+      "tags" : []
+    },
+    "Demon Slayer" : {
+      "author" : "Koyoharu Gotōge",
+      "bought" : 21,
+      "cover" : "https://upload.wikimedia.org/wikipedia/it/4/45/Demon_Slayer_-_Kimetsu_no_yaiba.jpg",
+      "editor" : "Shūeisha",
+      "missing" : [],
+      "publisher" : "Star Comics",
+      "read_volumes" : 12,
+      "tags" : []
+    },
+    "DevilMan Omnibus" : {
+      "author" : "Gō Nagai",
+      "bought" : 1,
+      "cover" : "https://upload.wikimedia.org/wikipedia/it/e/e3/Devilman_omnibus.jpg",
+      "editor" : "Kōdansha",
+      "missing" : [],
+      "publisher" : "J-Pop",
+      "read_volumes" : 0,
+      "tags" : []
+    },
+    "Dragon Ball Full Color" : {
+      "author" : "Akira Toriyama",
+      "bought" : 32,
+      "cover" : "https://upload.wikimedia.org/wikipedia/it/thumb/3/3f/Dragon_Ball_cover_1.jpg/1024px-Dragon_Ball_cover_1.jpg",
+      "editor" : "Shūeisha",
+      "missing" : [],
+      "publisher" : "Star Comics",
+      "read_volumes" : 32,
+      "tags" : []
+    },
+    "Eighty Six" : {
+      "author" : "Asato Asato",
+      "bought" : 3,
+      "cover" : "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXNHLtni14AWq1l-P_0V4NFejsabNj_Bv61MgsK2wfiGsFeoue",
+      "editor" : "Square Enix",
+      "missing" : [],
+      "publisher" : "J-Pop",
+      "read_volumes" : 3,
+      "tags" : []
+    },
+    "Frieren - Oltre la fine del viaggio" : {
+      "author" : ["Kanehito Yamada", "Tsukasa Abe"],
+      "bought" : 8,
+      "cover" : "https://upload.wikimedia.org/wikipedia/it/thumb/a/ad/Frieren_-_Oltre_la_fine_del_viaggio_Volume_1.jpg/1280px-Frieren_-_Oltre_la_fine_del_viaggio_Volume_1.jpg",
+      "editor" : "Shōgakukan",
+      "missing" : [],
+      "publisher" : "J-Pop",
+      "read_volumes" : 0,
+      "tags" : []
+    },
+    "Full Metal Alchemist Ultimate Deluxe Edition" : {
+      "author" : "Hiromu Arakawa",
+      "bought" : 17,
+      "cover" : "https://upload.wikimedia.org/wikipedia/it/1/1f/Fma01.jpg",
+      "editor" : "Square Enix",
+      "missing" : [],
+      "publisher" : "Panini Comics",
+      "read_volumes" : 18,
+      "tags" : []
+    },
+    "Girl From the Other Side" : {
+      "author" : "Nagabe",
+      "bought" : 11,
+      "cover" : "https://upload.wikimedia.org/wikipedia/it/4/4b/Girl_from_the_Other_Side.jpg",
+      "editor" : "Mag Garden",
+      "missing" : [],
+      "publisher" : "J-Pop",
+      "read_volumes" : 0,
+      "tags" : []
+    },
+    "Hunter X Hunter" : {
+      "author" : "Yoshihiro Togashi",
+      "bought" : 36,
+      "cover" : "https://upload.wikimedia.org/wikipedia/it/7/77/Hunter_X_Hunter.jpg",
+      "editor" : "Shūeisha",
+      "missing" : [],
+      "publisher" : "Planet Manga",
+      "read_volumes" : 32,
+      "tags" : []
+    },
+    "Il Giardino delle Parole" : {
+      "author" : "Makoto Shinkai",
+      "bought" : 1,
+      "cover" : "https://upload.wikimedia.org/wikipedia/it/c/c2/Il_giardino_delle_parole.jpg",
+      "editor" : "Shūeisha",
+      "missing" : [],
+      "publisher" : "Planet Manga",
+      "read_volumes" : 0,
+      "tags" : []
+    },
+    "Jujutsu Kaisen" : {
+      "author" : "Gege Akutami",
+      "bought" : 17,
+      "cover" : "https://upload.wikimedia.org/wikipedia/it/9/9d/Jujutsu_Kaisen_01.jpg",
+      "editor" : "Shūeisha",
+      "missing" : [],
+      "publisher" : "Planet Manga",
+      "read_volumes" : 10,
+      "tags" : []
+    },
+    "Kaijou no. 8" : {
+      "author" : "Naoya Matsumoto",
+      "bought" : 6,
+      "cover" : "https://upload.wikimedia.org/wikipedia/it/8/81/Kaiju_No._8_Volume_1.jpg",
+      "editor" : "Shūeisha",
+      "missing" : [],
+      "publisher" : "Star Comics",
+      "read_volumes" : 0,
+      "tags" : []
+    },
+    "Kengan Ashura" : {
+      "author" : "Yabako Sandrovich",
+      "bought" : 1,
+      "cover" : "https://upload.wikimedia.org/wikipedia/it/5/55/Kengan_Ashura_Volume_1.jpg",
+      "editor" : "Shogakukan",
+      "missing" : [],
+      "publisher" : "Planet Manga",
+      "read_volumes" : 0,
+      "tags" : []
+    },
+    "La Divina Commedia" : {
+      "author" : "Gō Nagai",
+      "bought" : 1,
+      "cover" : "https://m.media-amazon.com/images/I/51ZreUerIrL._SX334_BO1,204,203,200_.jpg",
+      "editor" : "Kōdansha",
+      "missing" : [],
+      "publisher" : "J-Pop",
+      "read_volumes" : 0,
+      "tags" : []
+    },
+    "La Voce delle stelle" : {
+      "author" : "Makoto Shinkai",
+      "bought" : 1,
+      "cover" : "https://upload.wikimedia.org/wikipedia/it/3/3b/Your_Name.jpg",
+      "editor" : "Kōdansha",
+      "missing" : [],
+      "publisher" : "d/visual",
+      "read_volumes" : 0,
+      "tags" : []
+    },
+    "La via del grembiule" : {
+      "author" : "Kōsuke Ōno",
+      "bought" : 9,
+      "cover" : "https://upload.wikimedia.org/wikipedia/it/thumb/b/b2/La_via_del_grembiule_-_Lo_yakuza_casalingo_Volume_1.jpg/1280px-La_via_del_grembiule_-_Lo_yakuza_casalingo_Volume_1.jpg",
+      "editor" : "Shinchosha",
+      "missing" : [],
+      "publisher" : "J-Pop",
+      "read_volumes" : 5,
+      "tags" : []
+    },
+    "L’Immortale - Complete Edition" : {
+      "author" : "Hiroaki Samura",
+      "bought" : 7,
+      "cover" : "https://upload.wikimedia.org/wikipedia/it/6/67/Immortale_cop01.jpg",
+      "editor" : "Kōdansha",
+      "missing" : [],
+      "publisher" : "Planet Manga",
+      "read_volumes" : 0,
+      "tags" : []
+    },
+    "L’Immortale - Il Libro dell’Era Bakumatsu" : {
+      "author" : "Hiroaki Samura",
+      "bought" : 1,
+      "cover" : "https://upload.wikimedia.org/wikipedia/it/6/67/Immortale_cop01.jpg",
+      "editor" : "Kōdansha",
+      "missing" : [],
+      "publisher" : "Planet Manga",
+      "read_volumes" : 0,
+      "tags" : []
+    },
+    "Mashle" : {
+      "author" : "Hajime Komoto",
+      "bought" : 8,
+      "cover" : "https://upload.wikimedia.org/wikipedia/it/thumb/4/46/Mashle_Volume_1.jpg/394px-Mashle_Volume_1.jpg",
+      "editor" : "Shūeisha",
+      "missing" : [],
+      "publisher" : "Star Comics",
+      "read_volumes" : 3,
+      "tags" : []
+    },
+    "Monster Deluxe Edition" : {
+      "author" : "Naoki Urasawa",
+      "bought" : 4,
+      "cover" : "https://www.panini.it/media/catalog/product/cache/13663c26e06782c6b72cb4ce7e6046f4/m/m/mmons001isbnr4_0_qeuokqzipb4pvejp.jpg",
+      "editor" : "Shōgakukan",
+      "missing" : [],
+      "publisher" : "Planet Manga",
+      "read_volumes" : 0,
+      "tags" : []
+    },
+    "Moriarty the Patriot" : {
+      "author" : "Ryōsuke Takeuchi",
+      "bought" : 17,
+      "cover" : "https://upload.wikimedia.org/wikipedia/en/e/eb/Moriarty_the_Patriot_volume_1_cover.jpg",
+      "editor" : "Shūeisha",
+      "missing" : [],
+      "publisher" : "Planet Manga",
+      "read_volumes" : 3,
+      "tags" : []
+    },
+    "My Hero Academia" : {
+      "author" : "Kōhei Horikoshi",
+      "bought" : 34,
+      "cover" : "https://upload.wikimedia.org/wikipedia/it/thumb/1/1a/My_Hero_Academia_manga.jpg/394px-My_Hero_Academia_manga.jpg",
+      "editor" : "Shūeisha",
+      "missing" : [],
+      "publisher" : "Star Comics",
+      "read_volumes" : 30,
+      "tags" : []
+    },
+    "Naruto" : {
+      "author" : "Masashi Kishimoto",
+      "bought" : 72,
+      "cover" : "https://upload.wikimedia.org/wikipedia/it/3/3e/Naruto1.jpg",
+      "editor" : "Shūeisha",
+      "missing" : [47, 51, 52],
+      "publisher" : "Planet Manga",
+      "read_volumes" : 72,
+      "tags" : []
+    },
+    "Neon Genesis Evangelion" : {
+      "author" : "Yoshiyuki Sadamoto",
+      "bought" : 3,
+      "cover" : "https://www.panini.it/media/catalog/product/cache/13663c26e06782c6b72cb4ce7e6046f4/m/e/mevai001isbn_0.jpg",
+      "editor" : "Shōnen Ace",
+      "missing" : [],
+      "publisher" : "Panini Comics",
+      "read_volumes" : 0,
+      "tags" : []
+    },
+    "One Piece, New Edition" : {
+      "author" : "Eiichirō Oda",
+      "bought" : 96,
+      "cover" : "https://upload.wikimedia.org/wikipedia/it/5/5e/One_Piece_vol_1.jpg",
+      "editor" : "Shūeisha",
+      "missing" : [],
+      "publisher" : "Star Comics",
+      "read_volumes" : 96,
+      "tags" : []
+    },
+    "One Punch Man" : {
+      "author" : "One",
+      "bought" : 25,
+      "cover" : "https://upload.wikimedia.org/wikipedia/it/thumb/9/93/One-Punch_Man.jpg/394px-One-Punch_Man.jpg",
+      "editor" : "Shūeisha",
+      "missing" : [],
+      "publisher" : "Planet Manga",
+      "read_volumes" : 0,
+      "tags" : []
+    },
+    "Record of Ragnarok" : {
+      "author" : ["Takumi Fukui", "Shinya Umemura"],
+      "bought" : 12,
+      "cover" : "https://upload.wikimedia.org/wikipedia/it/2/2e/Record_of_Ragnarok_Volume_1.jpg",
+      "editor" : "Tokuma Shoten",
+      "missing" : [],
+      "publisher" : "Star Comics",
+      "read_volumes" : 0,
+      "tags" : []
+    },
+    "Shaman King Final Edition" : {
+      "author" : "Hiroyuki Takei",
+      "bought" : 35,
+      "cover" : "https://upload.wikimedia.org/wikipedia/it/thumb/c/cc/Shaman-king.jpg/1280px-Shaman-king.jpg",
+      "editor" : "Shūeisha, Kōdansha",
+      "missing" : [],
+      "publisher" : "Star Comics",
+      "read_volumes" : 35,
+      "tags" : []
+    },
+    "Slam Dunk" : {
+      "author" : "Takehiko Inoue",
+      "bought" : 5,
+      "cover" : "https://upload.wikimedia.org/wikipedia/it/8/82/Slam_Dunk.jpg",
+      "editor" : "Shūeisha",
+      "missing" : [],
+      "publisher" : "Star Comics",
+      "read_volumes" : 0,
+      "tags" : []
+    },
+    "Spy X Family" : {
+      "author" : "Tatsuya Endo",
+      "bought" : 9,
+      "cover" : "https://upload.wikimedia.org/wikipedia/it/3/3e/Spy_%C3%97_Family_Volume_1.jpg",
+      "editor" : "Shūeisha",
+      "missing" : [],
+      "publisher" : "Planet Manga",
+      "read_volumes" : 6,
+      "tags" : []
+    },
+    "The Promised Neverland" : {
+      "author" : "Kaiu Shirai",
+      "bought" : 20,
+      "cover" : "https://upload.wikimedia.org/wikipedia/it/thumb/2/23/Promised_Neverland_Volume1.jpg/446px-Promised_Neverland_Volume1.jpg",
+      "editor" : "Shūeisha",
+      "missing" : [],
+      "publisher" : "J-Pop",
+      "read_volumes" : 20,
+      "tags" : []
+    },
+    "The Seven Deadly Sins" : {
+      "author" : "Nakaba Suzuki",
+      "bought" : 41,
+      "cover" : "https://upload.wikimedia.org/wikipedia/it/7/7e/Nanatsu_no_taizai_manga.jpg",
+      "editor" : "Kōdansha",
+      "missing" : [],
+      "publisher" : "Star Comics",
+      "read_volumes" : 41,
+      "tags" : []
+    },
+    "Tokyo Ghoul" : {
+      "author" : "Sui Ishida",
+      "bought" : 14,
+      "cover" : "https://upload.wikimedia.org/wikipedia/it/4/4b/Tokyo_Ghoul_manga.jpg",
+      "editor" : "Shūeisha",
+      "missing" : [],
+      "publisher" : "J-Pop",
+      "read_volumes" : 14,
+      "tags" : []
+    },
+    "Tokyo Ghoul:re" : {
+      "author" : "Sui Ishida",
+      "bought" : 5,
+      "cover" : "https://upload.wikimedia.org/wikipedia/it/4/4b/Tokyo_Ghoul_manga.jpg",
+      "editor" : "Shūeisha",
+      "missing" : [],
+      "publisher" : "J-Pop",
+      "read_volumes" : 5,
+      "tags" : []
+    },
+    "Tokyo Revengers" : {
+      "author" : "Ken Wakui",
+      "bought" : 22,
+      "cover" : "https://upload.wikimedia.org/wikipedia/it/thumb/0/07/Tokyo_Revengers_1.jpg/1280px-Tokyo_Revengers_1.jpg",
+      "editor" : "Kōdansha",
+      "missing" : [],
+      "publisher" : "J-Pop",
+      "read_volumes" : 0,
+      "tags" : []
+    },
+    "Vagabond" : {
+      "author" : "Takehiko Inoue",
+      "bought" : 5,
+      "cover" : "https://upload.wikimedia.org/wikipedia/it/4/4d/Vagabond_Deluxe_1.jpg",
+      "editor" : "Kōdansha",
+      "missing" : [],
+      "publisher" : "Planet Manga",
+      "read_volumes" : 0,
+      "tags" : []
+    },
+    "Weathering with you" : {
+      "author" : "Makoto Shinkai",
+      "bought" : 3,
+      "cover" : "https://upload.wikimedia.org/wikipedia/it/b/bb/Fotogramma_dal_trailer_del_film_%22Weathering_with_You%22.jpeg",
+      "editor" : "Shūeisha",
+      "missing" : [],
+      "publisher" : "Planet Manga",
+      "read_volumes" : 0,
+      "tags" : []
+    },
+    "Your Name" : {
+      "author" : "Makoto Shinkai",
+      "bought" : 3,
+      "cover" : "https://upload.wikimedia.org/wikipedia/it/3/3b/Your_Name.jpg",
+      "editor" : " Media Factory",
+      "missing" : [],
+      "publisher" : "J-Pop",
+      "read_volumes" : 0,
+      "tags" : []
+    }
   }
 }
