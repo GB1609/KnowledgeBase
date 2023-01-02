@@ -29,7 +29,8 @@ sort status
 Displays all books with the "Read" status.
 
 ```dataview
-table rows.file.link as book
+table author, ("![coverimg|95](" + cover +")") as cover
 from "Readings/Books"
 where status = "Read"
+sort file.name asc
 ```
