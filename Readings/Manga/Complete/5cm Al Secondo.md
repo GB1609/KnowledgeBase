@@ -1,5 +1,5 @@
 ---
-tag: [📚Manga, complete]
+tag: [complete, completeManga]
 title: "5cm Al Secondo"
 total_volume: 2
 author: [Makoto Shinkai]

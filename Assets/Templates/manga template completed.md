@@ -1,5 +1,5 @@
 ---
-tag: [📚Manga, complete]
+tag: [complete, completeManga]
 title: "{title}"
 total_volume: {total_volume}
 author: [{author}]

@@ -1,5 +1,5 @@
 ---
-tag: [📚Manga, complete]
+tag: [complete, completeManga]
 title: "Chainsaw Man"
 total_volume: 14
 author: [Tatsuki Fujimoto]

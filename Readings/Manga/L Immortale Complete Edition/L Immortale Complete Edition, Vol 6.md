@@ -1,6 +1,7 @@
 ---
-tag: [📚Manga, limmortaleCompleteEdition]
-title: "Limmortale Complete Edition, Vol 6"
+tag: [manga, lImmortaleCompleteEdition]
+manga: "L Immortale Complete Edition"
+title: "L Immortale Complete Edition, Vol 6"
 vol: 6
 author: [Hiroaki Samura]
 publisher: Planet Manga
@@ -12,8 +13,11 @@ editor: Kōdansha
 
 
 - Metadata:
-	- **Author:** `= this.author`
-	- **Status:** `= this.status`
-	- **Vol:** `= this.vol`
+	- **author:** `= this.author`
+	- **status:** `= this.status`
+	- **vol:** `= this.vol`
+	- **title:** `= this.title`
+	- **manga:** `= this.manga`
+	- **bought:** `= this.bought`
 
 This is the book note. Switch to Edit mode (Ctrl+E or Command+E on the Mac) to see the book note's YAML frontmatter.

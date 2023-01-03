@@ -1,5 +1,5 @@
 ---
-tag: [📚Manga, complete]
+tag: [complete, completeManga]
 title: "Your Name"
 total_volume: 3
 author: [Makoto Shinkai]

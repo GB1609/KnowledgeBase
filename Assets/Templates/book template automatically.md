@@ -1,5 +1,5 @@
 ---
-tag: [📚Book, {{author}}]
+tag: [book, {{author}}]
 title: "{{title}}"
 author: [{{author}}]
 publisher: {{publisher}}
@@ -10,11 +10,12 @@ cover: {{coverUrl}}
 status: Unread
 start_read:
 end_read:
+ratings:
 ---
 
 - Metadata:
-	- **Author:** `= this.Author`
-	- **Status:** `= this.Status`
-	- **ISBN:** `= this.ISBN`
+	- **Author:** `= this.author`
+	- **Status:** `= this.status`
+	- **ISBN:** `= this.isbn`
 
 This is the book note. Switch to Edit mode (Ctrl+E or Command+E on the Mac) to see the book note's YAML frontmatter.

@@ -1,5 +1,5 @@
 ---
-banner: "![[banner.jpg]]"
+banner: "![[book_banner.jpg]]"
 banner_y: 0.752
 banner_lock: true
 ---
@@ -15,15 +15,3 @@ where bought=True
 sort volume asc
 ```
 
----
-## Missing Manga
----
-Displays manga to bought
-
-```dataview
-table 
-from "Readings/Manga"
-where bought=False
-sort volume asc
-```
---- 

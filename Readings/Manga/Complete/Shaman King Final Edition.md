@@ -1,5 +1,5 @@
 ---
-tag: [📚Manga, complete]
+tag: [complete, completeManga]
 title: "Shaman King Final Edition"
 total_volume: 35
 author: [Hiroyuki Takei]

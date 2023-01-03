@@ -8,8 +8,9 @@ total: 704
 isbn: 889274318X
 cover: http://books.google.com/books/content?id=i5Z-EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 status: Unread
-start_read:
-end_read:
+start_read: null
+end_read: null
+ratings: null
 ---
 
 - Metadata:

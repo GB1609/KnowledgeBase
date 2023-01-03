@@ -1,5 +1,5 @@
 ---
-tag: [📚Manga, complete]
+tag: [complete, completeManga]
 title: "La Divina Commedia"
 total_volume: 1
 author: [Gō Nagai]

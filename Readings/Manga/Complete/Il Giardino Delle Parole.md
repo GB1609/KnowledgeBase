@@ -1,5 +1,5 @@
 ---
-tag: [📚Manga, complete]
+tag: [complete, completeManga]
 title: "Il Giardino Delle Parole"
 total_volume: 1
 author: [Makoto Shinkai]

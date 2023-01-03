@@ -1,5 +1,5 @@
 ---
-tag: [📚Manga, complete]
+tag: [complete, completeManga]
 title: "Girl From The Other Side"
 total_volume: 11
 author: [Nagabe]

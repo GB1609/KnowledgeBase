@@ -1,5 +1,6 @@
 ---
-tag: [📚Manga, muneyukiKaneshiro, yusukeNomura, blueLock]
+tag: [manga, muneyukiKaneshiro, yusukeNomura, blueLock]
+manga: "Blue Lock"
 title: "Blue Lock, Vol 1"
 vol: 1
 author: [['Muneyuki Kaneshiro', 'Yusuke Nomura']]
@@ -12,8 +13,11 @@ editor: Kōdansha
 
 
 - Metadata:
-	- **Author:** `= this.author`
-	- **Status:** `= this.status`
-	- **Vol:** `= this.vol`
+	- **author:** `= this.author`
+	- **status:** `= this.status`
+	- **vol:** `= this.vol`
+	- **title:** `= this.title`
+	- **manga:** `= this.manga`
+	- **bought:** `= this.bought`
 
 This is the book note. Switch to Edit mode (Ctrl+E or Command+E on the Mac) to see the book note's YAML frontmatter.

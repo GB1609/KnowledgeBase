@@ -1,6 +1,6 @@
 ---
-banner: "![[banner.jpg]]"
-banner_y: 0.752
+banner: "![[book_banner.jpg]]"
+banner_y: 0.78
 banner_lock: true
 ---
 
@@ -10,7 +10,7 @@ Displays all books from the Books folder.
 
 ```dataview
 table author, ("![coverimg|95](" + cover +")") as cover
-from "Readings/Books"
+from #book and -"Assets/Templates"
 sort file.name asc
 ```
 --- 
@@ -19,7 +19,7 @@ sort file.name asc
 Displays and groups all books based on their Status.
 ```dataview
 table rows.file.link as book
-from "Readings/Books"
+from "Readings/Books" and -"Readings/Books/Review" and #book 
 group by status
 sort status
 ```
@@ -30,7 +30,7 @@ Displays all books with the "Read" status.
 
 ```dataview
 table author, ("![coverimg|95](" + cover +")") as cover
-from "Readings/Books"
-where status = "Read"
+from #book 
+where status="Read"
 sort file.name asc
 ```

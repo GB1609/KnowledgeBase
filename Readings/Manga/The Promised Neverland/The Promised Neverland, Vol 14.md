@@ -1,5 +1,6 @@
 ---
-tag: [📚Manga, thePromisedNeverland]
+tag: [manga, thePromisedNeverland]
+manga: "The Promised Neverland"
 title: "The Promised Neverland, Vol 14"
 vol: 14
 author: [Kaiu Shirai]
@@ -12,8 +13,11 @@ editor: Shūeisha
 
 
 - Metadata:
-	- **Author:** `= this.author`
-	- **Status:** `= this.status`
-	- **Vol:** `= this.vol`
+	- **author:** `= this.author`
+	- **status:** `= this.status`
+	- **vol:** `= this.vol`
+	- **title:** `= this.title`
+	- **manga:** `= this.manga`
+	- **bought:** `= this.bought`
 
 This is the book note. Switch to Edit mode (Ctrl+E or Command+E on the Mac) to see the book note's YAML frontmatter.

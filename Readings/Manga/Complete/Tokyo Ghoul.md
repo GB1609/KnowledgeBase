@@ -1,5 +1,5 @@
 ---
-tag: [📚Manga, complete]
+tag: [complete, completeManga]
 title: "Tokyo Ghoul"
 total_volume: 14
 author: [Sui Ishida]

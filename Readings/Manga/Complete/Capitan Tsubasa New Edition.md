@@ -1,5 +1,5 @@
 ---
-tag: [📚Manga, complete]
+tag: [complete, completeManga]
 title: "Capitan Tsubasa New Edition"
 total_volume: 21
 author: [Yōichi Takahashi]

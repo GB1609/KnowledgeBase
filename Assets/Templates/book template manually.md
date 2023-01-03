@@ -1,5 +1,5 @@
 ---
-tag: [📚Book, {{author}}]
+tag: [book, {{author}}]
 title: "{{title}}"
 author: [{{author}}]
 publisher: {{publisher}}
@@ -10,6 +10,7 @@ cover: {{coverUrl}}
 status: Unread
 start_read:
 end_read:
+ratings:
 ---
 
 - Metadata:

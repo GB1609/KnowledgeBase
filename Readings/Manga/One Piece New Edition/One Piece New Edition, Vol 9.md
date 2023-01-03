@@ -1,5 +1,6 @@
 ---
-tag: [📚Manga, onePieceNewEdition]
+tag: [manga, onePieceNewEdition]
+manga: "One Piece New Edition"
 title: "One Piece New Edition, Vol 9"
 vol: 9
 author: [Eiichirō Oda]
@@ -12,8 +13,11 @@ editor: Shūeisha
 
 
 - Metadata:
-	- **Author:** `= this.author`
-	- **Status:** `= this.status`
-	- **Vol:** `= this.vol`
+	- **author:** `= this.author`
+	- **status:** `= this.status`
+	- **vol:** `= this.vol`
+	- **title:** `= this.title`
+	- **manga:** `= this.manga`
+	- **bought:** `= this.bought`
 
 This is the book note. Switch to Edit mode (Ctrl+E or Command+E on the Mac) to see the book note's YAML frontmatter.

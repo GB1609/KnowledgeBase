@@ -1,5 +1,5 @@
 ---
-tag: [📚Manga, complete]
+tag: [complete, completeManga]
 title: "Weathering With You"
 total_volume: 3
 author: [Makoto Shinkai]
