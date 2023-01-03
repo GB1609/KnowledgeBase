@@ -1,5 +1,5 @@
 ---
-tag: [📚Manga, complete]
+tag: [complete, completeManga]
 title: "Death Shield"
 total_volume: 3
 author: [['Giorgio Battisti', 'Luca Molinaro']]

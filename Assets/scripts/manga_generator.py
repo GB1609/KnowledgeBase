@@ -5,11 +5,16 @@ import os
 
 logger = logging.getLogger('take_trial_data')
 
-not_admissible_char = [':', '/', '<', '>', '"', '/', '|', "?", "*", '.', ',', ';', '\'', '-', '’']
+not_admissible_char = [':', '/', '<', '>', '"', '/', '|', "?", "*", '.', ',', ';', '\'', '-']
+not_admissible_chat_to_space = ['’']
+
+manga_path = "../../Readings/Manga"
+template_path = "../Templates"
 
 
 def to_admissible_resource(resource):
-    replace_char = ''.join(x for x in resource if x not in not_admissible_char)
+    replace_char_to_space = ''.join(" " if x in not_admissible_chat_to_space else x for x in resource)
+    replace_char = ''.join(x for x in replace_char_to_space if x not in not_admissible_char)
     to_array = list(filter(None, replace_char.split(" ")))
     to_return = " ".join([el.capitalize() for el in to_array])
     return to_return
@@ -31,7 +36,7 @@ if __name__ == '__main__':
     manga_to_generate = conf["manga"]
     logger.info("CONFIGURATION FILE:\n")
     logger.info(manga_to_generate)
-    generation_template = open(f"../_templates/manga template manually.md", 'r', encoding="utf-8").read()
+    generation_template = open(f"{template_path}/manga template manually.md", 'r', encoding="utf-8").read()
     logger.info("TEMPLATE FILE:\n")
     logger.info(generation_template)
     for manga in manga_to_generate:
@@ -59,6 +64,7 @@ if __name__ == '__main__':
         for num_volume in range(1, total_volumes + 1):
             new_read_manga = generation_template.format(
                 title=admissible_name,
+                manga=admissible_name,
                 volume=num_volume,
                 author=authors,
                 publisher=publisher,
@@ -70,14 +76,14 @@ if __name__ == '__main__':
             )
 
             file_name = f'{admissible_name}, Vol {num_volume}.md'
-            create_folder(f"../Readings/Manga/{admissible_name}/")
-            with open(f"../Readings/Manga/{admissible_name}/{file_name}", 'w', encoding="utf-8") as f:
+            create_folder(f"{manga_path}/{admissible_name}/")
+            with open(f"{manga_path}/{admissible_name}/{file_name}", 'w', encoding="utf-8") as f:
                 f.writelines(new_read_manga)
                 logger.info(f'Create file {admissible_name}!')
     logger.info("ALL MANGA GENERATED")
 
     logger.info("START COMPLETE MANGA:")
-    completed_template = open(f"../_templates/manga template completed.md", 'r', encoding="utf-8").read()
+    completed_template = open(f"{template_path}/manga template completed.md", 'r', encoding="utf-8").read()
     logger.info("TEMPLATE FILE:\n")
     logger.info(completed_template)
     for completed in conf["completed"]:
@@ -95,8 +101,8 @@ if __name__ == '__main__':
             total_volume=bought
         )
 
-        create_folder(f"../Readings/Manga/Complete")
-        with open(f"../Readings/Manga/Complete/{file_name}", 'w', encoding="utf-8") as f:
+        create_folder(f"{manga_path}/Complete")
+        with open(f"{manga_path}/Complete/{file_name}", 'w', encoding="utf-8") as f:
             f.writelines(completed_manga)
             logger.info(f'Create file {admissible_name}!')
     logger.info("ALL Completed Manga GENERATED")

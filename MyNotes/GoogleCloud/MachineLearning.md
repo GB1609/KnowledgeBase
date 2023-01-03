@@ -50,5 +50,3 @@ Questa pagina contiene note fondamentali sul machine learning e come alcuni conc
 27. Se c’è **underfitting** bisogna migliorare il modello, con **overfitting** bisogna migliorare la fase di
 training
 ---
-
-[[README]]

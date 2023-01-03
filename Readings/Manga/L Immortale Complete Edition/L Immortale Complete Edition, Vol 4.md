@@ -1,7 +1,8 @@
 ---
-tag: [📚Manga, limmortaleIlLibroDelleraBakumatsu]
-title: "Limmortale Il Libro Dellera Bakumatsu, Vol 1"
-vol: 1
+tag: [manga, lImmortaleCompleteEdition]
+manga: "L Immortale Complete Edition"
+title: "L Immortale Complete Edition, Vol 4"
+vol: 4
 author: [Hiroaki Samura]
 publisher: Planet Manga
 cover: https://upload.wikimedia.org/wikipedia/it/6/67/Immortale_cop01.jpg
@@ -12,8 +13,11 @@ editor: Kōdansha
 
 
 - Metadata:
-	- **Author:** `= this.author`
-	- **Status:** `= this.status`
-	- **Vol:** `= this.vol`
+	- **author:** `= this.author`
+	- **status:** `= this.status`
+	- **vol:** `= this.vol`
+	- **title:** `= this.title`
+	- **manga:** `= this.manga`
+	- **bought:** `= this.bought`
 
 This is the book note. Switch to Edit mode (Ctrl+E or Command+E on the Mac) to see the book note's YAML frontmatter.

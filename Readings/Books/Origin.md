@@ -1,5 +1,5 @@
 ---
-tag: [📚Book, DanBrown]
+tag: [book, DanBrown]
 title: "Origin"
 author: [Dan Brown]
 publisher: Edizioni Mondadori
@@ -10,6 +10,7 @@ cover: http://books.google.com/books/content?id=45U0DwAAQBAJ&printsec=frontcover
 status: Read
 start_read: 26/12/2022
 end_read: 02/01/2023
+ratings: ⭐⭐⭐⭐⭐
 ---
 
 - Metadata:

@@ -1,5 +1,5 @@
 ---
-tag: [📚Manga, complete]
+tag: [complete, completeManga]
 title: "The Promised Neverland"
 total_volume: 20
 author: [Kaiu Shirai]

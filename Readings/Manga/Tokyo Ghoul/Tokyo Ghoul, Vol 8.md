@@ -1,5 +1,6 @@
 ---
-tag: [📚Manga, tokyoGhoul]
+tag: [manga, tokyoGhoul]
+manga: "Tokyo Ghoul"
 title: "Tokyo Ghoul, Vol 8"
 vol: 8
 author: [Sui Ishida]
@@ -12,8 +13,11 @@ editor: Shūeisha
 
 
 - Metadata:
-	- **Author:** `= this.author`
-	- **Status:** `= this.status`
-	- **Vol:** `= this.vol`
+	- **author:** `= this.author`
+	- **status:** `= this.status`
+	- **vol:** `= this.vol`
+	- **title:** `= this.title`
+	- **manga:** `= this.manga`
+	- **bought:** `= this.bought`
 
 This is the book note. Switch to Edit mode (Ctrl+E or Command+E on the Mac) to see the book note's YAML frontmatter.

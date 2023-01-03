@@ -1,5 +1,6 @@
 ---
-tag: [📚Manga, tokyoGhoulre]
+tag: [manga, tokyoGhoulre]
+manga: "Tokyo Ghoulre"
 title: "Tokyo Ghoulre, Vol 1"
 vol: 1
 author: [Sui Ishida]
@@ -12,8 +13,11 @@ editor: Shūeisha
 
 
 - Metadata:
-	- **Author:** `= this.author`
-	- **Status:** `= this.status`
-	- **Vol:** `= this.vol`
+	- **author:** `= this.author`
+	- **status:** `= this.status`
+	- **vol:** `= this.vol`
+	- **title:** `= this.title`
+	- **manga:** `= this.manga`
+	- **bought:** `= this.bought`
 
 This is the book note. Switch to Edit mode (Ctrl+E or Command+E on the Mac) to see the book note's YAML frontmatter.

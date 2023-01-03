@@ -1,15 +1,16 @@
 ---
-tag: [📚Book, MauriceLeblanc]
-title: "Arsenio Lupin. Ladro gentiluomo. Nuova ediz."
+tag: [book, MauriceLeblanc]
+title: Arsenio Lupin. Ladro gentiluomo. Nuova ediz.
 author: [Maurice Leblanc]
-publisher: 
+publisher: null
 publish: 2021
 total: 280
-isbn: 
+isbn: null
 cover: http://books.google.com/books/content?id=hmw9zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
 status: Unread
-start_read:
-end_read:
+start_read: null
+end_read: null
+ratings: null
 ---
 
 - Metadata:

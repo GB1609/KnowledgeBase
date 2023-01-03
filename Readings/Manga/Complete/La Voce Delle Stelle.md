@@ -1,5 +1,5 @@
 ---
-tag: [📚Manga, complete]
+tag: [complete, completeManga]
 title: "La Voce Delle Stelle"
 total_volume: 1
 author: [Makoto Shinkai]

@@ -1,5 +1,5 @@
 ---
-tag: [📚Manga, complete]
+tag: [complete, completeManga]
 title: "Death Note"
 total_volume: 13
 author: [Tsugumi Ōba]

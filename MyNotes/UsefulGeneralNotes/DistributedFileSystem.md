@@ -16,5 +16,3 @@ A distributed file system works as follows:
 -   **Distribution**: First, a DFS distributes datasets across multiple clusters or nodes. Each node provides its own computing power, which enables a DFS to process the datasets in parallel.
 -   **Replication**: A DFS will also replicate datasets onto different clusters by copying the same pieces of information into multiple clusters. This helps the distributed file system to achieve fault tolerance—to recover the data in case of a node or cluster failure—as well as high concurrency, which enables the same piece of data to be processed at the same time.
 ---
-
-[[README]]

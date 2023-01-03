@@ -1,5 +1,5 @@
 ---
-tag: [📚Manga, complete]
+tag: [complete, completeManga]
 title: "Dragon Ball Full Color"
 total_volume: 32
 author: [Akira Toriyama]

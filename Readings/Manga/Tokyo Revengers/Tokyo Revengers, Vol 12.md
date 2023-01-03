@@ -1,5 +1,6 @@
 ---
-tag: [📚Manga, tokyoRevengers]
+tag: [manga, tokyoRevengers]
+manga: "Tokyo Revengers"
 title: "Tokyo Revengers, Vol 12"
 vol: 12
 author: [Ken Wakui]
@@ -12,8 +13,11 @@ editor: Kōdansha
 
 
 - Metadata:
-	- **Author:** `= this.author`
-	- **Status:** `= this.status`
-	- **Vol:** `= this.vol`
+	- **author:** `= this.author`
+	- **status:** `= this.status`
+	- **vol:** `= this.vol`
+	- **title:** `= this.title`
+	- **manga:** `= this.manga`
+	- **bought:** `= this.bought`
 
 This is the book note. Switch to Edit mode (Ctrl+E or Command+E on the Mac) to see the book note's YAML frontmatter.

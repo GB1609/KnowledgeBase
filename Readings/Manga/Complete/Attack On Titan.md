@@ -1,5 +1,5 @@
 ---
-tag: [📚Manga, complete]
+tag: [complete, completeManga]
 title: "Attack On Titan"
 total_volume: 34
 author: [Hajime Isayama]

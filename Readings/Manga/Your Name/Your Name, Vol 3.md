@@ -1,5 +1,6 @@
 ---
-tag: [📚Manga, yourName]
+tag: [manga, yourName]
+manga: "Your Name"
 title: "Your Name, Vol 3"
 vol: 3
 author: [Makoto Shinkai]
@@ -12,8 +13,11 @@ editor:  Media Factory
 
 
 - Metadata:
-	- **Author:** `= this.author`
-	- **Status:** `= this.status`
-	- **Vol:** `= this.vol`
+	- **author:** `= this.author`
+	- **status:** `= this.status`
+	- **vol:** `= this.vol`
+	- **title:** `= this.title`
+	- **manga:** `= this.manga`
+	- **bought:** `= this.bought`
 
 This is the book note. Switch to Edit mode (Ctrl+E or Command+E on the Mac) to see the book note's YAML frontmatter.

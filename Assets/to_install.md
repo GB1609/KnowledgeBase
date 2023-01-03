@@ -24,9 +24,11 @@
 ### Community Plugins
 - [Advanced Slides](obsidian://show-plugin?id=obsidian-advanced-slides)
 - [Advanced Tables for Obsidian](obsidian://show-plugin?id=table-editor-obsidian)
+- [Banners](obsidian://show-plugin?id=obsidian-banners)
 - [Better Word Count](obsidian://show-plugin?id=better-word-count)
 - [Book Search](obsidian://show-plugin?id=obsidian-book-search-plugin)
 - [Calendar](obsidian://show-plugin?id=calendar)
+- [Database Folder](obsidian://show-plugin?id=dbfolder)
 - [Dataview](obsidian://show-plugin?id=dataview)
 - [Day Planner](obsidian://show-plugin?id=obsidian-day-planner)
 - [Editor Syntax Highlight](obsidian://show-plugin?id=cm-editor-syntax-highlight-obsidian)

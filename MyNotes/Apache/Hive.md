@@ -58,5 +58,3 @@ LOCATION '/data/stocks';
 - https://cwiki.apache.org/confluence/display/Hive//Home
 - https://www.guru99.com/introduction-hive.html#2
 ---
-
-[[README]]

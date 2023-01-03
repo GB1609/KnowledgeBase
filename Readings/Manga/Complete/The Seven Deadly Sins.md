@@ -1,5 +1,5 @@
 ---
-tag: [📚Manga, complete]
+tag: [complete, completeManga]
 title: "The Seven Deadly Sins"
 total_volume: 41
 author: [Nakaba Suzuki]

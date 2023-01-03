@@ -55,5 +55,3 @@ Official page: https://git-scm.com/
 All commands: https://git-scm.com/docs
 
 ---
-
-[[README]]
