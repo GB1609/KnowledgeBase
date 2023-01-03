@@ -5,8 +5,8 @@ database-plugin: basic
 ---
 
 ```yaml:dbfolder
-name: Book Database
-description: Info about all books
+name: Manga Database
+description: Database of all manga
 columns:
   __file__:
     key: __file__
@@ -18,6 +18,7 @@ columns:
     skipPersist: false
     isDragDisabled: false
     csvCandidate: true
+    width: 786
     position: 0
     isHidden: false
     sortIndex: -1
@@ -39,41 +40,45 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    width: 378
     options:
-      - { label: "Dan Brown", backgroundColor: "hsl(178, 95%, 90%)"}
-      - { label: "Maurice Leblanc", backgroundColor: "hsl(287, 95%, 90%)"}
-      - { label: "Erich Gamma", backgroundColor: "hsl(28, 95%, 90%)"}
-      - { label: "Richard Helm", backgroundColor: "hsl(247, 95%, 90%)"}
-      - { label: "Craig Larman", backgroundColor: "hsl(132, 95%, 90%)"}
-      - { label: "Ralph Johnson", backgroundColor: "hsl(59, 95%, 90%)"}
-      - { label: "John M. Vlissides", backgroundColor: "hsl(6, 95%, 90%)"}
-      - { label: "Stephen King", backgroundColor: "hsl(352, 95%, 90%)"}
-      - { label: "Vlad Khononov", backgroundColor: "hsl(222, 95%, 90%)"}
-      - { label: "Masashi Kishimoto", backgroundColor: "hsl(262, 95%, 90%)"}
+      - { label: "Naoki Urasawa", backgroundColor: "hsl(82, 95%, 90%)"}
+      - { label: "Makoto Shinkai", backgroundColor: "hsl(355, 95%, 90%)"}
+      - { label: "Masashi Kishimoto", backgroundColor: "hsl(14, 95%, 90%)"}
+      - { label: "Katsuhiro Ōtomo", backgroundColor: "hsl(69, 95%, 90%)"}
+      - { label: "Hajime Isayama", backgroundColor: "hsl(349, 95%, 90%)"}
+      - { label: "Kentarō Miura, Kōji Mori", backgroundColor: "hsl(131, 95%, 90%)"}
+      - { label: "Muneyuki Kaneshiro, Yusuke Nomura", backgroundColor: "hsl(136, 95%, 90%)"}
+      - { label: "Takehiko Inoue", backgroundColor: "hsl(240, 95%, 90%)"}
+      - { label: "Ken Wakui", backgroundColor: "hsl(161, 95%, 90%)"}
+      - { label: "Sui Ishida", backgroundColor: "hsl(130, 95%, 90%)"}
+      - { label: "Yōichi Takahashi", backgroundColor: "hsl(182, 95%, 90%)"}
+      - { label: "Tatsuki Fujimoto", backgroundColor: "hsl(302, 95%, 90%)"}
+      - { label: "Tsugumi Ōba", backgroundColor: "hsl(261, 95%, 90%)"}
+      - { label: "Giorgio Battisti, Luca Molinaro", backgroundColor: "hsl(4, 95%, 90%)"}
+      - { label: "Gō Nagai", backgroundColor: "hsl(209, 95%, 90%)"}
+      - { label: "Akira Toriyama", backgroundColor: "hsl(197, 95%, 90%)"}
+      - { label: "Nagabe", backgroundColor: "hsl(11, 95%, 90%)"}
+      - { label: "Hiroyuki Takei", backgroundColor: "hsl(262, 95%, 90%)"}
+      - { label: "Nakaba Suzuki", backgroundColor: "hsl(229, 95%, 90%)"}
+      - { label: "Kaiu Shirai", backgroundColor: "hsl(62, 95%, 90%)"}
     config:
-      enable_media_view: false
-      link_alias_enabled: false
+      enable_media_view: true
+      link_alias_enabled: true
       media_width: 100
       media_height: 100
       isInline: false
       task_hide_completed: true
       footer_type: none
-      wrap_content: false
-  status:
+  bought:
     input: select
-    accessorKey: status
-    key: status
-    id: status
-    label: status
+    accessorKey: bought
+    key: bought
+    id: bought
+    label: bought
     position: 100
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    options:
-      - { label: "Read", backgroundColor: "hsl(0, 95%, 90%)"}
-      - { label: "Unread", backgroundColor: "hsl(0, 95%, 90%)"}
-      - { label: "Read In Progress", backgroundColor: "hsl(0, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -82,61 +87,19 @@ columns:
       isInline: false
       task_hide_completed: true
       footer_type: none
-  ratings:
-    input: select
-    accessorKey: ratings
-    key: ratings
-    id: ratings
-    label: ratings
-    position: 100
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    width: 256
-    options:
-      - { label: "⭐⭐⭐⭐⭐", backgroundColor: "hsl(0,0%,0%)"}
-      - { label: "⭐⭐⭐⭐", backgroundColor: "hsl(0,0%,0%)"}
-      - { label: "⭐⭐⭐", backgroundColor: "hsl(0,0%,0%)"}
-      - { label: "⭐⭐", backgroundColor: "hsl(0,0%,0%)"}
-      - { label: "⭐", backgroundColor: "hsl(0,0%,0%)"}
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      wrap_content: false
-  start_read:
+  manga:
     input: text
-    accessorKey: start_read
-    key: start_read
-    id: start_read
-    label: start_read
+    accessorKey: manga
+    key: manga
+    id: manga
+    label: manga
     position: 100
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-  end_read:
-    input: text
-    accessorKey: end_read
-    key: end_read
-    id: end_read
-    label: end_read
-    position: 100
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    width: 288
+    isSorted: false
+    isSortedDesc: false
+    width: 420
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -163,12 +126,12 @@ columns:
       isInline: false
       task_hide_completed: true
       footer_type: none
-  title:
+  status:
     input: text
-    accessorKey: title
-    key: title
-    id: title
-    label: title
+    accessorKey: status
+    key: status
+    id: status
+    label: status
     position: 100
     skipPersist: false
     isHidden: false
@@ -183,7 +146,7 @@ columns:
       footer_type: none
 config:
   remove_field_when_delete_column: false
-  cell_size: "compact"
+  cell_size: "normal"
   sticky_first_column: true
   group_folder_column: ""
   remove_empty_folders: false
@@ -194,13 +157,13 @@ config:
   show_metadata_tasks: false
   show_metadata_inlinks: false
   show_metadata_outlinks: false
-  source_data: "current_folder_without_subfolders"
-  source_form_result: ""
+  source_data: "current_folder"
+  source_form_result: "root"
   source_destination_path: "/"
-  row_templates_folder: ""
+  row_templates_folder: "/"
   current_row_template: ""
-  pagination_size: 10
-  font_size: 16
+  pagination_size: 50
+  font_size: 10
   enable_js_formulas: false
   formula_folder_path: "/"
   inline_default: false
@@ -208,7 +171,7 @@ config:
   date_format: "yyyy-MM-dd"
   datetime_format: "yyyy-MM-dd HH:mm:ss"
   metadata_date_format: "yyyy-MM-dd HH:mm:ss"
-  enable_footer: false
+  enable_footer: true
 filters:
   enabled: false
   conditions:

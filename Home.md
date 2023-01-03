@@ -1,5 +1,8 @@
 ---
 cssclass: dashboard
+banner: "![[sasuke_hitachi.jpg]]"
+banner_y: 0.2
+banner_lock: true
 ---
 
 # Notes
@@ -20,8 +23,6 @@ cssclass: dashboard
 	- [[Missing Manga]]
 - Books 📖
 	- [[Book Library]]
-- 👥 Personal Review
-	- [[Arsenio Lupin Ladro gentiluomo Nuova ediz Review]]
 # Work
 
 

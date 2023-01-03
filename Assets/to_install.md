@@ -32,6 +32,7 @@
 - [Dataview](obsidian://show-plugin?id=dataview)
 - [Day Planner](obsidian://show-plugin?id=obsidian-day-planner)
 - [Editor Syntax Highlight](obsidian://show-plugin?id=cm-editor-syntax-highlight-obsidian)
+- [Hide Plugin](obsidian://show-plugin?id=obsidian-hider)
 - [Homepage](obsidian://show-plugin?id=homepage)
 - [Kanban](obsidian://show-plugin?id=obsidian-kanban)
 - [Mind Map](obsidian://show-plugin?id=obsidian-mind-map)

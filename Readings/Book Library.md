@@ -1,6 +1,6 @@
 ---
 banner: "![[book_banner.jpg]]"
-banner_y: 0.78
+banner_y: 0.89
 banner_lock: true
 ---
 
