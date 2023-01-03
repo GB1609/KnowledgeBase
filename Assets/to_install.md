@@ -22,7 +22,6 @@
 - Templates
  
 ### Community Plugins
-- [Advanced Slides](obsidian://show-plugin?id=obsidian-advanced-slides)
 - [Advanced Tables for Obsidian](obsidian://show-plugin?id=table-editor-obsidian)
 - [Banners](obsidian://show-plugin?id=obsidian-banners)
 - [Better Word Count](obsidian://show-plugin?id=better-word-count)
