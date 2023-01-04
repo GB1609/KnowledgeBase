@@ -7,6 +7,11 @@ This page is for guidelines to follow to prepare for Google Cloud Data Engineeri
 
 ---
 
+## Canvas
+![[How Prepare GCP Data Engineer Exam.png]]
+
+---
+
 # Complete prep courses
 
 The first thing to do in order to take the exam is to follow and complete some preparatory courses.

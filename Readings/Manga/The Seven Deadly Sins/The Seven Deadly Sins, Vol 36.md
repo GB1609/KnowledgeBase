@@ -1,5 +1,5 @@
 ---
-tag: [manga, theSevenDeadlySins]
+tag: [manga, Read, theSevenDeadlySins]
 manga: "The Seven Deadly Sins"
 title: "The Seven Deadly Sins, Vol 36"
 vol: 36
@@ -11,13 +11,12 @@ status: Read
 editor: Kōdansha
 ---
 
-
 - Metadata:
-	- **author:** `= this.author`
-	- **status:** `= this.status`
-	- **vol:** `= this.vol`
-	- **title:** `= this.title`
-	- **manga:** `= this.manga`
-	- **bought:** `= this.bought`
+    - **author:** `= this.author`
+    - **status:** `= this.status`
+    - **vol:** `= this.vol`
+    - **title:** `= this.title`
+    - **manga:** `= this.manga`
+    - **bought:** `= this.bought`
 
 This is the book note. Switch to Edit mode (Ctrl+E or Command+E on the Mac) to see the book note's YAML frontmatter.

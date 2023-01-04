@@ -1,5 +1,5 @@
 ---
-tag: [manga, lImmortaleCompleteEdition]
+tag: [manga, Unread, lImmortaleCompleteEdition]
 manga: "L Immortale Complete Edition"
 title: "L Immortale Complete Edition, Vol 3"
 vol: 3
@@ -11,13 +11,12 @@ status: Unread
 editor: Kōdansha
 ---
 
-
 - Metadata:
-	- **author:** `= this.author`
-	- **status:** `= this.status`
-	- **vol:** `= this.vol`
-	- **title:** `= this.title`
-	- **manga:** `= this.manga`
-	- **bought:** `= this.bought`
+    - **author:** `= this.author`
+    - **status:** `= this.status`
+    - **vol:** `= this.vol`
+    - **title:** `= this.title`
+    - **manga:** `= this.manga`
+    - **bought:** `= this.bought`
 
 This is the book note. Switch to Edit mode (Ctrl+E or Command+E on the Mac) to see the book note's YAML frontmatter.

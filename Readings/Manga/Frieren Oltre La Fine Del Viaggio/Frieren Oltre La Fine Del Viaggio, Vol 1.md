@@ -1,5 +1,5 @@
 ---
-tag: [manga, kanehitoYamada, tsukasaAbe, frierenOltreLaFineDelViaggio]
+tag: [manga, Unread, kanehitoYamada, tsukasaAbe, frierenOltreLaFineDelViaggio]
 manga: "Frieren Oltre La Fine Del Viaggio"
 title: "Frieren Oltre La Fine Del Viaggio, Vol 1"
 vol: 1
@@ -11,13 +11,12 @@ status: Unread
 editor: Shōgakukan
 ---
 
-
 - Metadata:
-	- **author:** `= this.author`
-	- **status:** `= this.status`
-	- **vol:** `= this.vol`
-	- **title:** `= this.title`
-	- **manga:** `= this.manga`
-	- **bought:** `= this.bought`
+    - **author:** `= this.author`
+    - **status:** `= this.status`
+    - **vol:** `= this.vol`
+    - **title:** `= this.title`
+    - **manga:** `= this.manga`
+    - **bought:** `= this.bought`
 
 This is the book note. Switch to Edit mode (Ctrl+E or Command+E on the Mac) to see the book note's YAML frontmatter.

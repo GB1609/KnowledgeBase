@@ -1,5 +1,5 @@
 ---
-tag: [manga, onePieceNewEdition]
+tag: [manga, Read, onePieceNewEdition]
 manga: "One Piece New Edition"
 title: "One Piece New Edition, Vol 60"
 vol: 60
@@ -11,13 +11,12 @@ status: Read
 editor: Shūeisha
 ---
 
-
 - Metadata:
-	- **author:** `= this.author`
-	- **status:** `= this.status`
-	- **vol:** `= this.vol`
-	- **title:** `= this.title`
-	- **manga:** `= this.manga`
-	- **bought:** `= this.bought`
+    - **author:** `= this.author`
+    - **status:** `= this.status`
+    - **vol:** `= this.vol`
+    - **title:** `= this.title`
+    - **manga:** `= this.manga`
+    - **bought:** `= this.bought`
 
 This is the book note. Switch to Edit mode (Ctrl+E or Command+E on the Mac) to see the book note's YAML frontmatter.

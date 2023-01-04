@@ -5,14 +5,22 @@ import os
 
 logger = logging.getLogger('take_trial_data')
 
-not_admissible_char = [':', '/', '<', '>', '"', '/', '|', "?", "*", '.', ',', ';', '\'', '-']
-not_admissible_chat_to_space = ['’']
+# arrays of not admitted char
+not_admissible_char = [':', '/', '<', '>', '"', '/', '|', "?", "*", '.', ',', ';', '-']
+not_admissible_chat_to_space = ['’', '\'']
 
+# paths of input and output folder
 manga_path = "../../Readings/Manga"
 template_path = "../Templates"
 
 
 def to_admissible_resource(resource):
+    """
+    Given a string replace all 'not_admissible_chat_to_space' with space and
+    remove all 'not_admissible_char'
+    :param resource: name of resource
+    :return: a [[str]] in a desired format
+    """
     replace_char_to_space = ''.join(" " if x in not_admissible_chat_to_space else x for x in resource)
     replace_char = ''.join(x for x in replace_char_to_space if x not in not_admissible_char)
     to_array = list(filter(None, replace_char.split(" ")))
@@ -20,19 +28,28 @@ def to_admissible_resource(resource):
     return to_return
 
 
-def to_tag(element: str) -> str:
+def to_tag(element):
+    """
+    Change a string in camel case
+    :param element: string that represent resource
+    :return: a string in a camelCase
+    """
     return stringcase.camelcase(to_admissible_resource(element).replace(" ", ""))
 
 
 def create_folder(path):
-    # Check if the "newfolder" directory exists
+    """
+    Create a directory if not exist
+    :param path: path of folder
+    """
     if not os.path.exists(path):
-        # Create the "newfolder" directory
         os.mkdir(path)
 
 
 if __name__ == '__main__':
+    # load configuration file
     conf = json.load(open("configuration.json", encoding="utf-8"))
+    # manga conf
     manga_to_generate = conf["manga"]
     logger.info("CONFIGURATION FILE:\n")
     logger.info(manga_to_generate)

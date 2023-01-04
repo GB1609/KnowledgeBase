@@ -1,5 +1,5 @@
 ---
-tag: [manga, moriartyThePatriot]
+tag: [manga, Unread, moriartyThePatriot]
 manga: "Moriarty The Patriot"
 title: "Moriarty The Patriot, Vol 9"
 vol: 9
@@ -11,13 +11,12 @@ status: Unread
 editor: Shūeisha
 ---
 
-
 - Metadata:
-	- **author:** `= this.author`
-	- **status:** `= this.status`
-	- **vol:** `= this.vol`
-	- **title:** `= this.title`
-	- **manga:** `= this.manga`
-	- **bought:** `= this.bought`
+    - **author:** `= this.author`
+    - **status:** `= this.status`
+    - **vol:** `= this.vol`
+    - **title:** `= this.title`
+    - **manga:** `= this.manga`
+    - **bought:** `= this.bought`
 
 This is the book note. Switch to Edit mode (Ctrl+E or Command+E on the Mac) to see the book note's YAML frontmatter.

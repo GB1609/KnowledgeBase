@@ -1,5 +1,5 @@
 ---
-tag: [manga, laViaDelGrembiule]
+tag: [manga, Read, laViaDelGrembiule]
 manga: "La Via Del Grembiule"
 title: "La Via Del Grembiule, Vol 2"
 vol: 2
@@ -11,13 +11,12 @@ status: Read
 editor: Shinchosha
 ---
 
-
 - Metadata:
-	- **author:** `= this.author`
-	- **status:** `= this.status`
-	- **vol:** `= this.vol`
-	- **title:** `= this.title`
-	- **manga:** `= this.manga`
-	- **bought:** `= this.bought`
+    - **author:** `= this.author`
+    - **status:** `= this.status`
+    - **vol:** `= this.vol`
+    - **title:** `= this.title`
+    - **manga:** `= this.manga`
+    - **bought:** `= this.bought`
 
 This is the book note. Switch to Edit mode (Ctrl+E or Command+E on the Mac) to see the book note's YAML frontmatter.
